@@ -1,0 +1,5 @@
+from nginx
+
+RUN apt-get update && apt-get install  iputils-ping -y && apt-get install  iproute2 -y
+
+COPY ./staticfiles-v2/hello.html /usr/share/nginx/html/hello.html

@@ -1,0 +1,1141 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang16393\deflangfe16393\themelang16393\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f43\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}
+{\f44\fbidi \fswiss\fcharset134\fprq2{\*\panose 020b0503020204020204}Microsoft YaHei;}{\f45\fbidi \fswiss\fcharset134\fprq2 @Microsoft YaHei;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f46\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f47\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f49\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f50\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f51\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f52\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f53\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f54\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f56\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\f57\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f59\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f60\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f61\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f62\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f63\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f64\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f66\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}{\f67\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f69\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f70\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f71\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f72\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f73\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f74\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f386\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f387\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f389\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f390\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f393\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f394\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\f416\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\f417\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\f419\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\f420\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\f421\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\f422\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\f423\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\f424\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}
+{\f476\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\f477\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\f479\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\f480\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\f483\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\f484\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\f488\fbidi \fswiss\fcharset0\fprq2 Microsoft YaHei Western;}{\f486\fbidi \fswiss\fcharset238\fprq2 Microsoft YaHei CE;}
+{\f487\fbidi \fswiss\fcharset204\fprq2 Microsoft YaHei Cyr;}{\f489\fbidi \fswiss\fcharset161\fprq2 Microsoft YaHei Greek;}{\f490\fbidi \fswiss\fcharset162\fprq2 Microsoft YaHei Tur;}{\f498\fbidi \fswiss\fcharset0\fprq2 @Microsoft YaHei Western;}
+{\f496\fbidi \fswiss\fcharset238\fprq2 @Microsoft YaHei CE;}{\f497\fbidi \fswiss\fcharset204\fprq2 @Microsoft YaHei Cyr;}{\f499\fbidi \fswiss\fcharset161\fprq2 @Microsoft YaHei Greek;}{\f500\fbidi \fswiss\fcharset162\fprq2 @Microsoft YaHei Tur;}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}
+{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}
+{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}
+{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;\chyperlink\ctint255\cshade255\red0\green0\blue255;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext0 \sqformat \spriority0 Normal;}{\s1\ql \li117\ri0\sb47\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin117\itap0 \rtlch\fcs1 
+\ab\af1\afs48\alang1025 \ltrch\fcs0 \b\fs48\lang1033\langfe1033\kerning1\loch\f1\hich\af1\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext19 \slink15 \sqformat heading 1;}{
+\s2\ql \li117\ri0\nowidctlpar\wrapdefault\faauto\ilvl1\outlinelevel1\rin0\lin117\itap0 \rtlch\fcs1 \ab\af1\afs31\alang1025 \ltrch\fcs0 \b\fs31\lang1033\langfe1033\kerning1\loch\f1\hich\af1\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\sbasedon19 \snext19 \slink16 \sqformat heading 2;}{\s3\ql \li837\ri0\nowidctlpar\wrapdefault\faauto\ilvl2\outlinelevel2\rin0\lin837\itap0 \rtlch\fcs1 \ab\af1\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang1033\langfe1033\kerning1\loch\f1\hich\af1\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext19 \slink17 \sqformat heading 3;}{\s4\ql \li0\ri0\sb122\nowidctlpar\wrapdefault\faauto\ilvl3\outlinelevel3\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af43\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1033\langfe1033\kerning1\loch\f43\hich\af43\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext19 \slink18 \sqformat heading 4;}{\*\cs10 \additive Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext11 \ssemihidden \sunhideused 
+Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\ai\af0\afs28 \ltrch\fcs0 
+\b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Heading 2 Char;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0\afs26 \ltrch\fcs0 \b\fs26\loch\f31502\hich\af31502\dbch\af31501 
+\sbasedon10 \slink3 \slocked \ssemihidden \spriority9 Heading 3 Char;}{\*\cs18 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\fs28 \sbasedon10 \slink4 \slocked \ssemihidden \spriority9 Heading 4 Char;}{
+\s19\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext19 WW-Default;}{
+\s20\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext20 \sqformat List Paragraph;}{
+\s21\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\aspalpha\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af37\afs22\alang1098 \ltrch\fcs0 \fs22\lang16393\langfe16393\kerning1\loch\f37\hich\af0\dbch\af0\cgrid\langnp16393\langfenp16393 
+\snext21 \spriority0 Default;}{\*\cs22 \additive \b\f43 RTF_Num 2 1;}{\*\cs23 \additive \b\f43 RTF_Num 3 1;}{\*\cs24 \additive \b\f43 RTF_Num 4 1;}{\*\cs25 \additive \b\f43 RTF_Num 5 1;}{\*\cs26 \additive \b\f43 RTF_Num 6 1;}{\*\cs27 \additive \b\f43 
+RTF_Num 7 1;}{\*\cs28 \additive \b\f43 RTF_Num 8 1;}{\*\cs29 \additive \b\f43 RTF_Num 9 1;}{\*\cs30 \additive \b\f43 RTF_Num 10 1;}{\*\cs31 \additive \b\f43 RTF_Num 11 1;}{\*\cs32 \additive \b\f43 RTF_Num 12 1;}{\*\cs33 \additive \b\f43 RTF_Num 13 1;}{\*
+\cs34 \additive \b\f43 RTF_Num 14 1;}{\*\cs35 \additive \b\f43 RTF_Num 15 1;}{\*\cs36 \additive \f43 RTF_Num 15 2;}{\*\cs37 \additive \b\f43 RTF_Num 16 1;}{\*\cs38 \additive \b\f43 RTF_Num 17 1;}{\*\cs39 \additive \f43 RTF_Num 17 2;}{\*\cs40 \additive 
+\f3 RTF_Num 18 1;}{\*\cs41 \additive \f3 RTF_Num 19 1;}{\*\cs42 \additive \f3 RTF_Num 20 1;}{\*\cs43 \additive \b\f43 RTF_Num 21 1;}{\*\cs44 \additive \b\f43 RTF_Num 22 1;}{\*\cs45 \additive \b\f43 RTF_Num 23 1;}{\*\cs46 \additive \b\f43 RTF_Num 24 1;}{\*
+\cs47 \additive \b\f43 RTF_Num 25 1;}{\*\cs48 \additive \b\f43 RTF_Num 26 1;}{\*\cs49 \additive \b\f43 RTF_Num 27 1;}{\*\cs50 \additive \b\f43 RTF_Num 28 1;}{\*\cs51 \additive \b\f43 RTF_Num 29 1;}{\*\cs52 \additive \f3 RTF_Num 30 1;}{\*\cs53 \additive 
+\f2 RTF_Num 30 2;}{\*\cs54 \additive \f10 RTF_Num 30 3;}{\*\cs55 \additive \f3 RTF_Num 30 4;}{\*\cs56 \additive \f2 RTF_Num 30 5;}{\*\cs57 \additive \f10 RTF_Num 30 6;}{\*\cs58 \additive \f3 RTF_Num 30 7;}{\*\cs59 \additive \f2 RTF_Num 30 8;}{\*\cs60 
+\additive \f10 RTF_Num 30 9;}{\*\cs61 \additive RTF_Num 31 1;}{\*\cs62 \additive RTF_Num 31 2;}{\*\cs63 \additive RTF_Num 31 3;}{\*\cs64 \additive RTF_Num 31 4;}{\*\cs65 \additive RTF_Num 31 5;}{\*\cs66 \additive RTF_Num 31 6;}{\*\cs67 \additive 
+RTF_Num 31 7;}{\*\cs68 \additive RTF_Num 31 8;}{\*\cs69 \additive RTF_Num 31 9;}{\*\cs70 \additive RTF_Num 32 1;}{\*\cs71 \additive RTF_Num 32 2;}{\*\cs72 \additive RTF_Num 32 3;}{\*\cs73 \additive RTF_Num 32 4;}{\*\cs74 \additive RTF_Num 32 5;}{\*\cs75 
+\additive RTF_Num 32 6;}{\*\cs76 \additive RTF_Num 32 7;}{\*\cs77 \additive RTF_Num 32 8;}{\*\cs78 \additive RTF_Num 32 9;}{\*\cs79 \additive \f3 RTF_Num 33 1;}{\*\cs80 \additive \f2 RTF_Num 33 2;}{\*\cs81 \additive \f10 RTF_Num 33 3;}{\*\cs82 \additive 
+\f3 RTF_Num 33 4;}{\*\cs83 \additive \f2 RTF_Num 33 5;}{\*\cs84 \additive \f10 RTF_Num 33 6;}{\*\cs85 \additive \f3 RTF_Num 33 7;}{\*\cs86 \additive \f2 RTF_Num 33 8;}{\*\cs87 \additive \f10 RTF_Num 33 9;}{\*\cs88 \additive RTF_Num 34 1;}{\*\cs89 
+\additive RTF_Num 34 2;}{\*\cs90 \additive RTF_Num 34 3;}{\*\cs91 \additive RTF_Num 34 4;}{\*\cs92 \additive RTF_Num 34 5;}{\*\cs93 \additive RTF_Num 34 6;}{\*\cs94 \additive RTF_Num 34 7;}{\*\cs95 \additive RTF_Num 34 8;}{\*\cs96 \additive RTF_Num 34 9;}
+{\*\cs97 \additive \f3 RTF_Num 35 1;}{\*\cs98 \additive \f2 RTF_Num 35 2;}{\*\cs99 \additive \f10 RTF_Num 35 3;}{\*\cs100 \additive \f3 RTF_Num 35 4;}{\*\cs101 \additive \f2 RTF_Num 35 5;}{\*\cs102 \additive \f10 RTF_Num 35 6;}{\*\cs103 \additive \f3 
+RTF_Num 35 7;}{\*\cs104 \additive \f2 RTF_Num 35 8;}{\*\cs105 \additive \f10 RTF_Num 35 9;}{\*\cs106 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \dbch\af0 \sbasedon10 Body Text Char;}{\*\cs107 \additive \rtlch\fcs1 \ab\af43\afs32 \ltrch\fcs0 
+\b\fs32\kerning1\loch\f43\dbch\af0 \sbasedon10 Heading 1 Char1;}{\*\cs108 \additive \rtlch\fcs1 \ab\ai\af43\afs28 \ltrch\fcs0 \b\i\fs28\loch\f43\dbch\af0 \sbasedon10 Heading 2 Char1;}{\*\cs109 \additive \rtlch\fcs1 \ab\af43\afs26 \ltrch\fcs0 
+\b\fs26\loch\f43\dbch\af0 \sbasedon10 Heading 3 Char1;}{\*\cs110 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\fs28\dbch\af0 \sbasedon10 Heading 4 Char1;}{\*\cs111 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \dbch\af0 \sbasedon10 Footer Char;}{
+\s112\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs28\alang1025 \ltrch\fcs0 \fs28\lang1033\langfe1033\kerning1\loch\f1\hich\af44\dbch\af0\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext113 Heading;}{
+\s113\ql \li117\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin117\itap0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f43\hich\af43\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext113 Text body;}{
+\s114\ql \li117\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin117\itap0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f43\hich\af0\dbch\af0\cgrid\langnp1033\langfenp1033 \sbasedon113 \snext114 List;}{
+\s115\ql \li0\ri0\sb120\sa120\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \ai\af0\afs24\alang1025 \ltrch\fcs0 \i\fs24\lang1033\langfe1033\kerning1\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext115 \sqformat 
+caption;}{\s116\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext116 Index;}{
+\s117\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon19 \snext117 Table Paragraph;}{
+\s118\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\noline\tqc\tx4800\tqr\tx9600\wrapdefault\aspalpha\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af37\afs22\alang1098 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\f37\hich\af0\dbch\af0\cgrid\langnp16393\langfenp16393 \sbasedon21 \snext118 \slink119 footer;}{\*\cs119 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink118 \slocked \ssemihidden Footer Char1;}{
+\s120\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \sbasedon0 \snext120 \slink121 \ssemihidden \sunhideused \styrsid5921399 header;}{\*\cs121 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\sbasedon10 \slink120 \slocked \ssemihidden \styrsid5921399 Header Char;}{\s122\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang16393\langfe16393\loch\f0\hich\af0\dbch\af31505\cgrid\langnp16393\langfenp16393 \sbasedon0 \snext122 \ssemihidden \sunhideused \styrsid3759535 Normal (Web);}{\*\cs123 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf19 
+\sbasedon10 \sunhideused \styrsid12786225 Hyperlink;}{\*\cs124 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f2\fs20 \sbasedon10 \ssemihidden \sunhideused \styrsid11862375 HTML Code;}}{\*\listtable{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid21830546}{\list\listtemplateid547359744\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li6480\lin6480 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li7200\lin7200 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li7920\lin7920 }{\listname ;}\listid24839607}{\list\listtemplateid1172841304
+\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331663\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li720\lin720 }{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2
+\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid127206023}{\list\listtemplateid-693203076\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6480\lin6480 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li7200\lin7200 }{\listname ;}\listid186335418}
+{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 
+\fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li6480\lin6480 }{\listname ;}\listid243415204}{\list\listtemplateid1209692350\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6480\lin6480 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li7200\lin7200 }{\listname ;}\listid291253845}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid312607669}{\list\listtemplateid-671863716\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1189503866\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid-916530848\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid-1187353364\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid491538366\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1395096588\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1781861644\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-39813564\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-2005262278\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1404907342\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid317615487}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid365716790}{\list\listtemplateid-1001488832\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-840139188\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid-889179148\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid-1729050582\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid-1916765572\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-2027773702\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid785799126\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid236851198\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-673014910\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1987212524\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid565453941}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid675501298}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid759831117}{\list\listtemplateid-1874823808\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1112329484\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid-758208690\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid-751647770\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid-1031404216\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid509267312\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-925087512\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1220425256\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid156662560\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid177403030\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid776483617}{\list\listtemplateid931804780\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid809791312}{\list\listtemplateid-1371219886\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331663\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid945960969}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid957683362}{\list\listtemplateid-1488679320\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-972269852\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid73798706\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid375299284\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid-94704342\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid179238418\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1518451460\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-638943096\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1667683108\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1958558954\'01\'95;}{\levelnumbers;}\f0\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1246840074}{\list\listtemplateid-1957240128\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1520535766\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid346688678\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid-2047197614\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid640552886\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid779227550\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid464169922\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid-909213154\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1265956048\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1567531296\'01\'95;}{\levelnumbers;}\f1\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1313488571}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid1407876553}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid1412199273}{\list\listtemplateid-461868644\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1463769484}{\list\listtemplateid2077261576
+\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid1500388680}{\list\listtemplateid-1866185886\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6480\lin6480 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li7200\lin7200 }{\listname ;}\listid1582713909}
+{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fi-180\li6480\lin6480 }{\listname ;}\listid1665277817}{\list\listtemplateid-950530192\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1726677577}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid1922331454}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid1939217412}{\list\listtemplateid2077261576\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1074331665\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-360\li644\lin644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331673\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\leveltemplateid1074331675\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331663\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331673\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331663\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331673\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331675\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-180\li6480\lin6480 }{\listname ;}\listid2135517630}}{\*\listoverridetable{\listoverride\listid127206023\listoverridecount0\ls1}{\listoverride\listid24839607
+\listoverridecount0\ls2}{\listoverride\listid945960969\listoverridecount0\ls3}{\listoverride\listid1582713909\listoverridecount0\ls4}{\listoverride\listid809791312\listoverridecount0\ls5}{\listoverride\listid1726677577\listoverridecount0\ls6}
+{\listoverride\listid186335418\listoverridecount0\ls7}{\listoverride\listid291253845\listoverridecount0\ls8}{\listoverride\listid1463769484\listoverridecount0\ls9}{\listoverride\listid365716790\listoverridecount0\ls10}{\listoverride\listid1922331454
+\listoverridecount0\ls11}{\listoverride\listid1665277817\listoverridecount0\ls12}{\listoverride\listid776483617\listoverridecount0\ls13}{\listoverride\listid565453941\listoverridecount0\ls14}{\listoverride\listid312607669\listoverridecount0\ls15}
+{\listoverride\listid957683362\listoverridecount0\ls16}{\listoverride\listid1939217412\listoverridecount0\ls17}{\listoverride\listid317615487\listoverridecount0\ls18}{\listoverride\listid1246840074\listoverridecount0\ls19}{\listoverride\listid21830546
+\listoverridecount0\ls20}{\listoverride\listid1407876553\listoverridecount0\ls21}{\listoverride\listid2135517630\listoverridecount0\ls22}{\listoverride\listid1313488571\listoverridecount0\ls23}{\listoverride\listid675501298\listoverridecount0\ls24}
+{\listoverride\listid759831117\listoverridecount0\ls25}{\listoverride\listid1412199273\listoverridecount0\ls26}{\listoverride\listid243415204\listoverridecount0\ls27}{\listoverride\listid1500388680\listoverridecount0\ls28}}{\*\pgptbl {\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li446\ri0\sb0\sa0}{\pgp\ipgp12\itap0\li547\ri0\sb77\sa0}{\pgp\ipgp12\itap0\li547\ri0\sb77\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp14\itap0\li547\ri0
+\sb77\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li547\ri0\sb77\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp12\itap0\li547\ri0\sb77\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0
+}{\pgp\ipgp12\itap0\li547\ri0\sb77\sa0}{\pgp\ipgp15\itap0\li547\ri0\sb77\sa0}}{\*\rsidtbl \rsid4517\rsid22537\rsid94596\rsid134951\rsid145908\rsid227232\rsid333532\rsid476494\rsid608572\rsid730237\rsid746127\rsid935336\rsid941866\rsid993676\rsid999203
+\rsid1007848\rsid1015007\rsid1066309\rsid1122293\rsid1128782\rsid1182689\rsid1183543\rsid1201317\rsid1212227\rsid1316250\rsid1318245\rsid1321338\rsid1394092\rsid1520115\rsid1538226\rsid1585035\rsid1726863\rsid1729994\rsid1844444\rsid1913484\rsid1916799
+\rsid1994595\rsid1996255\rsid2042307\rsid2109702\rsid2128170\rsid2168414\rsid2170772\rsid2369435\rsid2567283\rsid2622781\rsid2630446\rsid2634069\rsid2635570\rsid2638374\rsid2913200\rsid2914208\rsid3102359\rsid3112577\rsid3227447\rsid3233982\rsid3239612
+\rsid3240473\rsid3284299\rsid3347454\rsid3355982\rsid3367297\rsid3421151\rsid3485581\rsid3555521\rsid3560928\rsid3621855\rsid3700328\rsid3759535\rsid3761853\rsid3831202\rsid3878142\rsid3891655\rsid3933635\rsid4066607\rsid4268301\rsid4273122\rsid4279367
+\rsid4283614\rsid4398415\rsid4400961\rsid4414316\rsid4527080\rsid4536660\rsid4683175\rsid4860488\rsid4879514\rsid4984418\rsid5057703\rsid5207402\rsid5208555\rsid5245347\rsid5247297\rsid5265352\rsid5399726\rsid5441860\rsid5599776\rsid5709660\rsid5713867
+\rsid5717924\rsid5840905\rsid5861891\rsid5904394\rsid5917279\rsid5921399\rsid5973463\rsid6310059\rsid6372218\rsid6379405\rsid6502015\rsid6566837\rsid6645293\rsid6769355\rsid6838214\rsid6959940\rsid7082755\rsid7092844\rsid7104850\rsid7153377\rsid7169902
+\rsid7210029\rsid7215744\rsid7226668\rsid7236008\rsid7279171\rsid7289226\rsid7361419\rsid7477017\rsid7482918\rsid7538047\rsid7624543\rsid7671211\rsid7687576\rsid7747001\rsid7751788\rsid8022705\rsid8027078\rsid8078391\rsid8089684\rsid8287121\rsid8472116
+\rsid8532169\rsid8549130\rsid8550880\rsid8601459\rsid8616863\rsid8656038\rsid8660635\rsid8789987\rsid8801875\rsid8873311\rsid8914891\rsid8927821\rsid8993321\rsid9189481\rsid9198820\rsid9199036\rsid9203693\rsid9257796\rsid9338442\rsid9394195\rsid9466268
+\rsid9469007\rsid9512752\rsid9534921\rsid9661891\rsid9663726\rsid9708215\rsid9716195\rsid9772477\rsid9776874\rsid9832630\rsid9900044\rsid9926689\rsid10042257\rsid10359589\rsid10369737\rsid10619576\rsid10648849\rsid10701700\rsid10827476\rsid10834501
+\rsid10881821\rsid10888588\rsid10906220\rsid10976605\rsid11091961\rsid11157368\rsid11159699\rsid11165661\rsid11238947\rsid11288169\rsid11426464\rsid11822329\rsid11862375\rsid11939266\rsid11943940\rsid11944424\rsid12005415\rsid12070617\rsid12150729
+\rsid12263878\rsid12286716\rsid12340155\rsid12350885\rsid12545535\rsid12598358\rsid12603944\rsid12608727\rsid12786225\rsid12859804\rsid12939904\rsid13002611\rsid13110743\rsid13111552\rsid13176287\rsid13177815\rsid13199035\rsid13257083\rsid13259265
+\rsid13306529\rsid13307973\rsid13310681\rsid13581744\rsid13587306\rsid13593516\rsid13594098\rsid13638683\rsid13653613\rsid13786406\rsid13837117\rsid13837474\rsid13851099\rsid14104927\rsid14110137\rsid14164783\rsid14236484\rsid14242087\rsid14287930
+\rsid14297108\rsid14297672\rsid14377460\rsid14443280\rsid14557277\rsid15010445\rsid15020311\rsid15096868\rsid15153139\rsid15168920\rsid15211924\rsid15343797\rsid15409449\rsid15497990\rsid15499058\rsid15936153\rsid16019059\rsid16066694\rsid16073320
+\rsid16331437\rsid16343997\rsid16412339\rsid16415462\rsid16469892\rsid16471254\rsid16532534\rsid16538258\rsid16724083}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+{\title XSD}{\author siva}{\operator SivaPrasad v}{\creatim\yr2012\mo10\dy25\hr21\min52}{\revtim\yr2021\mo10\dy4\hr7\min2}{\version1}{\edmins3978}{\nofpages1}{\nofwords42}{\nofchars246}{\nofcharsws287}{\vern33}}{\*\xmlnstbl {\xmlns1 http://schemas.microso
+ft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1680\margr960\margt1440\margb1160\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont1\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1680\dgvorigin1440\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\splytwnine\ftnlytwnine\nolnhtadjtbl\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\wrppunct\asianbrkrule\rsidroot5921399\newtblstyruls\nogrowautofit
+\usenormstyforlist\noindnmbrts\felnbrelev\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notbrkcnstfrctbl\notvatxbx\krnprsnet\cachedcolbal \nouicompat \fet0{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0{\*\ftnsep \ltrpar 
+\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7169902 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7169902 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7169902 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7169902 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\sbknone\linex0\footery971\sectunlocked1\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\s120\ql \li-567\ri0\sa200\sl276\slmult1\widctlpar
+\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin-567\itap0\pararsid5921399 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5245347 {\*\shppict{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw5450\pich1217\picwgoal3090\pichgoal690\pngblip\bliptag1072981858{\*\blipuid 3ff467624d8937d882d4df836ae2715a}
+89504e470d0a1a0a0000000d49484452000000ce0000002e0802000000ef39b111000000017352474200aece1ce9000000097048597300000ec400000ec40195
+2b0e1b00002a7149444154785eed7c077c5455def6dc7ba7d7f44e0a2190d021b41504b12128ea5216ec2eb675d57dd7b5efbaf615755dd7de5657c52e0a8aa0
+a820d22101420929a4407a2665663293e9b7bccfb97772673219426cfb7dbf773dc498b973eaff3ce7dfcfa5044150fc527ea1c0cf4f01fae71fe297117ea100
+a1c02f50fb0507ff210afc02b5ff10a17f19e617a8fd8281ff1005fe0f424d50fcec868ec007396febcfb545ff470db59f1e6a6e6ff0647bc0fb7dbee6869f6b
+87fafae5055e421b7e7302f7b30c2704399f55ec19839c74bd3f64689e57e06740f1f3fe1fd25b441b50e4ff2d86c3500bb27c20f8633786e5788609f5890e7d
+817e1d0af896a77e24c9066f1e04bf517094828c82df0cc5fc1cc351b45a69c8167ba658af55e03c3f601481e304968d6ad873a84cf0c740152dfc58a6001670
+bcc515739e9888d5f64396f0bd561d5ec0b146fbd1e3366bb7d7e9e2017f7f209a0a83f7cb0a8a002f1c6db47774bba59a34a560f05f44f19c381e08e07cfaf0
+8c753a094fe0383e18f85e333e656581275cede715a31443ab2cd24c025d9b025dbb4e39ab811502769ba7e144e8b9c47004c1d3d2c206a20912e0023445e377
+6427dfd7216a77fa3ef8ea18a13cc7b7dbbd915d01db7effe05ac7a9751281f3b1bd750a21064b0ee1411e92a6a9f7beaea61985cddd8b7d0a04bfdf5aec9e40
+4f90b318d44683469a17d89b4ad9ef2c6a3332d4292927de7aa3fdab2f1dbb76a28ecfdaee397efc94fb04398829b5f5b691ade5032c7fd263a0a2551a46fbf3
+6b6b9848e814a9136652ba8c532e41ae404e024f98bdd268d465e748e7cdd7dc24a2b6abb7a292d169a37a53d24a8aa2003597dff551c347d2b71ef6fbf121b3
+41c3d36caf17fbaa786f6345972384367c2ca96e4b4b340cb2043e189b1dca4d584799a7e9035a93aca0423bcef93a59374176b8005072b1bb7c1ccfb777bb23
+1f4a7f7b7c6c597507fee8b07bc96f879f03ef8b283ccfa3edc086039fb4aeff6cd745e7ed5d7231f899a7a9a1e983777970f093173feb7707c9943e3bfa998f
+f5397c0e48c981d5c906f283f53394b9fdac75b04c3e18741faf771e3d88816a9f7fb6e5e38fdad6adeddabdc7b17b0f9ea0021720e48d59b0c0d296922bd75d
+01cc81da76affdfbae9745ffe21e55d475b775119242aaee296fab69720cba756cc05535604a207598dac1de7a604baec37aca7aaa9f15d8dec856e0d9432a1d
+76ff636fecc34c97dfbbe1b157762e7869fb909a9da452d0e90cd86bdb3f7d6bcb8cc95f0c4b0ef6f4a0a2bfae0ebf596f34ad4150095b753d752bb73dbab97e
+33fef6713815fd80f5afb257977eb4647bc38f9ad88f5814b6f0144067ddee9ef2c3f8ddb6611de7f3f95b5b1d870e1cbcf90667d541b6f5983c34cff5dba1a8
+29597bade06d2fed7ff1ae4d777c5eb58e00b40f26f21f435c0576f3cbddc74fb43a07afcf7adbf94017ea70816e98de7d9507632b01c70ededf1dd52d85cf43
+61fe8120eff0fa0c6ad5c25bd7a5c56bc7cdc8bdfbc2318d6dae9c74139a77f5f82a4fd84f9f90eef5b33a8d72900e058ee5dc1ea5d94c9486d6868675eb1d7b
+764e7af1355aafb77db44a356596b7b63ae5dcf9317b201a9820406bc1b7001f112b7d52acc3d37ef5dadf767a3b54bceae10bff36257ecaa6ba6f168eba50cd
+a887b2ba9fa20ec8083565502b44c405c53081ee6e95c5422909a138af97d16192a186a8002d56151737704ae06a10a358b244877a47bd2fe81b9b32d6c6db5a
+3a5a68255d9458241127aaf8039c92a119664806198415389f5a19b9102c0d6d01b31ed84314a313fb1f526f91330943ede935954916bee470e7d4312995cd36
+af83fbdd92f1a3b2e3fb4b5b85d7178456a754d258756b67efb05402b5cd650dcb6fdff8e75ba6acdb7cfc9ce29cdf2f1e1f67d2c4dc3f3ee03ff1faab39575f
+cbe8a419870befb636bcfc194b390afe74e729f71e2e013a22aa56693b72c52757918d8039c2d23a9d56af316e58fe858cc5a80e7bdc8192f2368f47657576d7
+363adabadd39e9e6c2dc1415a3386352666a62f4dc626cbca79e52a7504ae329a73a940a7e6bbbbba1d15254c498083d631637eb56d36a28a351df4291dddcb2
+b9bab9f29619ff13f55555837df5b7759f6caa7af99eb3678c4d1bca4cee7c76c7fc5fe5cc9d3a6c28954f5547c268a884a1f6eb07367efa71396d5203442ccb
+2b55d45d574c79e477a7a1223834c01ea5e3470ef3c9de634b7eff056c4e301a545ef3f8f9bf3e6344cc79b0bdbd9b2714e45e7ddda8bf3e1455a1e3db0d7b2f
+5a5cfcd6aa8c45bf89fcaad25eb172eb4a5f9c378bcf72f63aaf1c7f75bc397e5cc2b8c83aeb8fad7f60eb5f29592715b86b275ef7fba9378101c8680327686c
+f5ee39dafaeaba43eddd9eea463b17844b0cfe103423d306cfc1dff99909d38b321fff9f1999498369caae9aa7d880d332ea365a19058e7ef4952719eceaeca9
+3a9a34738e423c0fc47946130ee4696ca879e2ef9d5bbef0757498478e9af8dc2be6c9536292eef1bac7ddc77a1f9cffd0c0f373cbc69b685af9ccb9cf44353c
+e3c68fb795b5e061c3672b206d2ebe6bfd88f4d45b2f1bf3f4fbfb9ffed319162361f92e6fc044d86aa8ec296fcf4d379dcc4a10783f45473391807d1fa5d2a8
+8ce3823d87dd4dab4cf93732bafc814b601e78e001e9e95b6bcbebad4ed01aa402dfc293d327659e594cd0edf204af5fb949ab51bebbb1aa282fc1a88b3e58ab
+3eadda5dd94633227fa728873bb068ee8898d0ecd8b4b1f1cdd7bab66df3b536b7af5fa7e279fda842690270859a4617269d71b6d2a0a36009f7954645e35bbb
+de70743a9c3e6787b7637df5e7e5aef2a5054b2317f3c0d6fb6c3e5be419fafbbc27758c2e72571aaceea2a5af7db4a5a6a1ddd561f3c2b9abd628e34c5a8356
+0dabd5605263e5010febf0f80fd7b5afdb560fb93373fc494d4b4ff31a77e33be6113743b0041c654a5d26e023706e889898c245387ce49b7973865f7ba3d260
+087475363efd64e33b6f757fb7c971f448cd93ff64dd0e051bf4b6b5b57cb68e75dae38ba7d19ae81dfdfad0571b1ad61fb31eabb7d557792b27244e90296056
+5ba60f9b9ea84f8cf2233ef7c9e10ee230a3922cbaa7df2fdb52da74a8b6f9e5b5870f5677e565580a73e35941f8c747a52e279f9d6e048bc14f66b2c1a05379
+fd1c30808fd81677e3fbbd752f7b9a3f0c747ee1aafb377436b5655ce8c08833701c7d586948551a46faea5eb2553fad8d9fa63417cac75e9e6458afb2da3d94
+8a869b406679b28bc4e9f57fbda711786fed727f53da78dd45e3346a66f9d923a5f3c972c256f1e8840adc6914a581288a557af6ece1830a0881c6b7ffcdb382
+a76cdf8860c038759a3e3bd73872247e1c070fb0474a4ce7fd5a6e9dcaa4669a329b3dcd4e9628b0d06ae2b8b876577b9a2924111a7b1abb3d619c81939d9d7b
+8ea5cfef25f7e374f9614a88a0a6e7cfca993d25634a7eda94a234e825ac8267d4f4f113f6ea06c7a36f951ea8b21e6f75defde24e8f2f78df3533a465461598
+3114d8b8d2e8ebf896f5346b12a6124f2239f1b195187fbc45e1e3ad5faecfbe6a45c9f2459d3b7700d9b49ad6242543f99187f0775a6b9e7c34ed828be2a74c
+8b1cb19bef6eb2354267d8d6b2757beb364550117006e6159e9765c842b559d9b3f0fb89d2c7ef9c7a57642b26374171b085d2a91e7e632fdce90cf13d11560a
+6decbe7fed7a65ede1fa5687dbcf2984fd66bdaa74d5e5796946511d54c03ecd4a31326a0656a4fdf06d02e797ec478aa67d9ddbd8ce6f4cb9d73249b3a5b104
+de1bb0add7269feff734d38cc6567673bcc019b22f8da258588b9c3d2933ca1d65d487b8979b0b74dabc754d0e1c7400eeb70f6edcb4b751ee081eef9a461104
+62a182c28ae58551cedbd09c38ce5953451896b81e464575961fda79d9b21d67cedebff8025f2bc12ba337044cc991b3cc52674dc89a281208621cd106ea98ad
+fa9dca77a0ae49d57637efb6f9bae426984951f268d97a907db99852729cfec16b4e2ff9f7f2754f5c78f725d3ce9e961d6752eb758c59a73230ccd8fca4c567
+8ef8f685c52b2e1e07eb16337ce8f5bddfed271eaf689c711e7fe7569e73b76d9edab5e75285c072be3681b741be0cac2c3d09f6bab0e69aa71e3ff1ef7fd94b
+f6328c82562a782fef6eb622a2a1349a35a9e909d3a60e3be7acb4f32ed0e7e446f5d3d4d3506e2b27e49550a954bc52f6f295ab2fbf62ed65b5b65aa9f2c291
+1746b5b238a1099116b0eae41de17c410542b83eb6a9a3d7eb87c78990b5dbeef3ba43930701b3d34de026e27602dea29f0f320b3616a58492e46cfad45a760b
+562d0d47ab4c3dd56b3b779fe3b17e89c188251ecbf119865a94220fdd65dae854a9afba5a1794309c09221fc9a0f4e8bc44f9203677f5c01e946d9f84785d71
+4e6c0d94773aed870ee35ce170506a35a552c32e62940a5f7b53d3860d275e7d916783869c9cf88993a24866d69b219dc8c2c9f9a75c01d7c7151ff5b2bd7802
+a5f8dbe39b237989451b7771e1c5520f241eda7706f2b22cfbdeb8e2beeba64c1d9d0a8b2c6a08f9233498176f9f3b323b5e6af98ff70ec0291055193e19cedf
+05df2bfce38210b0edbfc159fbb2abee133e7852b7aaa7a101bcdc5d77ecd02dd7a339260cf991fcab69335f7b7de2abefcefc6aebac4d3b4effae64cae79ba6
+7dfcb92639256a44578f1b8b0791194a09cb0006253eba58575577d5aac36f49c7a9c85214bd28ce0746848712ce085b5250e79f3162d5a30bbe7b69c99ed797
+7df4b705c9f15a8185e2487d57dae016570ab86000a92b8a31d08c1e8c0b8a01ad320355a211aa52707ecedb27ca70568480b7bd54e0885b5860299531868f3d
+4cf11159719113858e9c911c52784b2bda2560c9f0da7eb0051a8f54ff5075a71c62876b67cc88a4612926bb33c6f966db5abd0dc7c9528056423115f00be31f
+4f70c48f3ef868f7cee7698d963644ebe34b0a966ad4e2d9c234448a2b58aabcf5101eec69de73a07d7fe4cc2f1d7399451b8a1a69188d7c06f41a263b5d7f32
+84453ed7a8e8877f3f03fa03ce16f8f7deca8ea856b41274271b203d17284aa91f46d102a3493a59ffaecaa3926825360845f17ec13c666cfe5d7fd1148dc9be
+e452cb848986bce183cced9dcab745dd0611311c79e2bb20aa94d8e397b55fdcb7e53e9cf681cd5984b2c41d96240e1fe4e13158f5c0bc2be6174d1a95323cd3
+72ce74f0752d8c3e9828b7bfb8abf8aaf77a7aa3360e51443f264d51600d71b42a1e529f882e5797c07f1b5a3e47228d601f7d1fd981010f7c15865a614e3c09
+1eca451018756863762188e167b138959281b28f88d3e73bea6ef9fbb760bca85ed5d9cd07face3dc7698c26cc2bc47efbafbee19b8d20325939dc471c0bde0d
+be20e71b600fb893c43fe27471528e86c8d5b0570a4ec1ae3af2767577d50715ef47ba06e10fcf4a1a76321fc7507026d5995694aad31245d6ef0bb63b0829fb
+159c7ee0acefe431da146dd22c43ce65725866e040083a894023c74c6ac868b5d66f36ba6a88f80b7d7bf2f9b97c4eac1adc0ba607e2722c425b11962e3951b1
+12aa410dc23e25471c71fcf14a259560d6763b7db07b5c9e40d5095b7b572f617a14e567f963355d8fbdb9afdf2c200a893404d5199ad61096867d22437350b5
+a59afab4f9110b1794e60c5a3d77e052c2504b30582065e51a383c2aa3d068757ddbe4387ca4159e531c25686f26bd1adc1583ec3ad42eed71bbd54bf41ab1d0
+9cc24a93a8b05edca7a8e22cd9431801713c737c20002944abd521a0080a4da2ce34a6cf1ae8ef58d62bf5b3879d2b0d42b0261ee8fd6dfb2f5f73f99ea6ddd2
+c75036074d0502039071f22d3cd93716837664761cf9564977f72510c89579ce07576be8a32028f5b92a7321ad1ccc39622be90bc94b00055feee9512725076c
+1d5d9faea97ffe9f82988510b354f454b4da89b492826fc47d0d4f01c110a13f24c9b4ec6944a48a294d720ff81291756934116d448ede70f1d8b55b6b7f75f5
+7b550d366ce5879b8eb96c5ed15c105523355390df8f3193d1d092f4422c54913f921f5a8594960c81830e23d05a88fbb03144ab4db42a8606159944c485544e
+69b230f5281e1ec3ea6df51d1556858a51a968b3416d36aaf107bed7ea95d0b8b098a395760c2c358a8bd73f7fd9e498f4128241cff190024bd89a8f37e417a4
+cc3b5f084a6480c6a9b69796f83baada3e7d0a719bc84e2032168e1aeb43729078be94b40a6100122d1085912455a5a257e9d374e927dbb39fea39a22e0a0e02
+4b9288c4041b24a3213428f4045239b4f398b92a21a5f0ee7b33975e22a4a6766ed9241d159cc0a0c31135cf064f438f9f24c2a080bb433f3f2bef2c93d604d8
+e10990d7e1b2c238286b3f1099fd81adf107c35a26ef67671567cd9c907efb33db17cecebff38a29876b3b5f597384d2868c3f481a4b92f18a7923fb8d8e7492
+f0b1efa3b2c0a90c696a6396f3d8cba21a871e64a851acab8ef7b60f2475186a88150dcf8a0fd7a014db77939c0b4aabe4612783340c0d5ea5d7aa880ca529c4
+a0603ffb835c678f5b22130ed9f8912933c7c5de694f532d1ce272e004aa85656271ca39f3433a06a508da7bcaefbca9f19daf5b3f3d3c30963025fdec147d16
+ac4e6c9656a9356b2d66b519dc0eb093b43151b8f0779c76d7b4cc7e6e821f082f4670f58ada0fcb270ec87ae0484c50d68da880a3dc75fc7d215831c858068e
+4c3dbc214a708500547c6d6a5afca8c2318fff53a1d1b82a8eb6ae5d0df111d58fabdba55485a404888c63767ec1429d522729151aa5e6b11d2b3faf5eb7bae2
+634852b92ddc0581002b8d280a5be1829979569bf7fe6b67fce38f7390a076cd43df38ec5ed91b0a8d937578f71dee87121eb697244025e545ec0c5c8e31e429
+4d63cd053712254d0d1b312cc478a429b67e2256ec97ad18861a84639c313c51747bd91f37bcf579e5f176a7e8d285fa8eb0086126a26f8ff27a82f5adceee20
+d7d6194a50c343bbdb6f73c61604b4f298b7b34f17239305d426279e368b704491eb03307e6bb7264539e6b19503f74cab4cccb5241040416051ca386d5cb231
+058053d14a2247c41ef2e30be664879c3d3f10617dcd4aabadc7db0823d168556971d1593dd14e0d58cece5a4a156d3646ce81d66a4876304d43d52571025ea0
+951ceb722a384e99909830834465b08cb4f90bf13fce1322291e02309b4f6c92bb02274b37664ccd989a624895738c41f97657eb35c5d7448e085ee0456aaa2c
+41d54c768ae9a2d9f9572e286ae9ec5d7acf867d075b98909e23628817d293748dddfd8c47f150494f48e609bc185805ba84c549b60c3a03c0007c47b8dc290e
+d6088084a1fb9d9908a8e9d4a37393fa59062ae4487188fc2b20a9d0a10431124b2020f7bb7c36d45632c8f09357d86df76cd9df1c739bbb36b5d2748813001b
+4a03dc83b00c82c651f93263e37d42e692c9dab4d87cf1da29d74bac0bcd007d9d524b7046b047941894df8c590a4fc78f0419a1392fbcbefa28517f05e1ac19
+39d38aa231e46d5b1f3eb202af4e2c8e1f77b34271d2f025418c4a49dc1b38af1a0da3d6809ace43655f8fccde72da14d60eff3329e6d163918860df5fe26b09
+bbc4fd9cbfbcf388bc28d80469c6d47a7bddb89470680e8adab0b89c7c4bbf70508fdb0fb4f529b894e0654b2b09c7da57613dff8f9f6edfdbc884398ba87e31
+f4b106478229ac7589f883e62dea67305fb91e8105b3209a43b0b7d6d3fab9a436200caf901d8a82a04d2d36e55d09c5500874f73b6cf2078068645e0292e609
+5a2566292810836ab2baa44015d443f8fdbc484c24b8a67825f3eccbbbeefccb977c44fe6373a73bc1123b56ddb17d273c1a520167d5666421c6ecaaa9d60dcb
+edf3052a28d8d176d17f1b2bdf6472ea64fc0055a0be27e8f612011e247e5d05f7c09c87d62c5fb3a42814adfa9129b82547adebb6d78b878abefea231039d70
+02494b0c6d09cebab9e0268a4904071c04e541bf4f140d4a5aa767f47a4aa5028e03f61e7f47eb91dbfe503affacb24b16f71c254edab8fc027572d8898d054a
+2a3fa18a38a53463fad686ad99a62cd9d04618bead97c02872e1c01964a8d4107bc7e8547919e6bfbcb4ebac9b3f3954d9c1f4f9e7256293e31ae0ffb06cf2dc
+e2a8589ce42c014bf3f27e3b50251025159aaaa3f7c41b9d7b2ee9d8b1a07bdf0d48300acd106164831a5113c1db1a7437c4861a9ee6a61ac0afc5af45651b27
+cf1d44d603f470f07eccdbeef23b7a038844017b2aad72c3dec6b57b4fa8a0c449ec4e54087233433eadc861a0edf61c3c10c20f08c62972afbb91f37a840022
+1e61d5559f95c1f918403032c426f7031d65d9d84b403516aed340af27e096d37111b9ca36e54a34f10b3feac647c5f1ee25f7ac0f883984179d9eb7f0f418ee
+2e95792cc29dd2c4801ea5ae601090918df179d95ee28325be0e7813894391048c71f602dd5d8d1fbedbbce5db86cfd604ba89034f352c5b1517569a37b46f60
+7d21a116607d3332668c881fe1f43b215865dd0f86c2b9f9e746ddd9894cbd06cab1895fec3af1dcea43ce1e5f9fdcec9b359c475e76f9c211ffb87576d4b9ea
+53490135161e5ac47b49ae145cc194d2dfb5cddfbdd3dfb533e82c1705a868b4310a5f4737b14cd5469579cc49a1466e03c84c1593d3309f6dab85ee85e78087
+2fc0e26f04bd71db054f103a8448d5a8950877ca410fe0cc1ccbcdc17b3cbeb6508407b3358d19193765bab7a549658957c527c82ccc50304240ac5da50ada6c
+aef2b0d490673c2767f6e4b4c9ac00e263f7bca2094e04fbcd1b7f3ff3cdd3f6b6ec0504d5703646d8de838320ea5bc0ebaee7b6e374e1797abceee11b7e2586
+9ca30b038d3c7c1f87f2b4ae895281a31af8dbdb0376224d48a2adcf8b1c35280f212f0f523c881b82a825352b1f86291ad5f670ef21d13d263100fafc820b5a
+5dad50ff2d5ab3bc4c95520ded4d0a06908b3c217d3c3473f48ca00c3e6cded7841c30a516619f7e83701ef6f6aba7bef197f30686132354052246a19619862d
+53c74f83bf0aac8bd1e7221a213adbe072831d4a63811a4b16c5e829c64c74b888d22f3e93936a46229ac89cc80f1cb6876abbbcf031405cf2b84fc51bb44a58
+06905b60721a351d6fd2265ab4b027c4a340ecc0c76e9a1d6f8e2147ec65fbc0c3640d35e98c33552673e2ac33189d5e939222fb827ced9d4aa4582424d2ea4e
+f7f17eec579a33eccddf8c59265d2f20663f620e0c5c2f34900797220e77ababed07e30cfdaf7c73df577b1bb05ea47f7ef1ccd2a23c88c5184508b628a8f032
+9db5ff626d11108142d0ff3647b0c7c111ae464137655dbd2c6e6f006a20227cf089c9f19326674d9d913effc2b8e2e98c2a3a97d36833f16ac2f8c1c60a120a
+92f4495332a6e280679b73647149f915f5be3a787f7008ad3eabecd326862785b3486b61cf41f840e516fda3c41d2b6e066a624f6f5f31f9f15b6669c454cda8
+22b2b17061d4a909935f4a99f991d29089183cefb7d2b48e04acd471246512a026c7867080815df57b34ba20c9404438918f5a35a3436a8d5625818f88738e27
+018d91c92cdc35247d8d4988d3a626ea713f825cc81304b35173fe693931d900b2b2588f1c5150e8b286c54d9a3cfc7737c387d9f1f55772aaacabbad2ba613d
+86f335d5ebd36327f080dcdea097d807c86815c33c120b83e363ddb1cf38ea87fb6f9f7cbfe2de17b642114d4fd2bfffc8f9130a225c3f5194f36889b75a6434
+e4078c498560807464909c70222a6c0097b5a84749be6b3f5c8c98fdc83fdd3963edc6599bb69fbebd74ea77bba7aefe6cf4238f25ccea6741b7f6b6ee6f2d95
+06477b787926a7179f36ecb4e56396231e05b555faca2b785f2f7f1d9ea036aaadc25b09cce1a198bd4a3411e00a9ba884c40e85b2fa66aa10f2d2e2373dbbe4
+efb79cd1d4e92a19107feb5b6068f1184d6d21e9d394d262cc5e46a016b421064f29e1b3b550e4f610c135a3257293ef6f13e0493fa841a163d570dc0a60b746
+bd3a294e9768d1c19726a167c4b0b8fbaf9d7ecbb289247a4f7a55e891ef65d4180147e2bb56b87dc18dbb4f0c843379e2f1ca176911433bfee2b3752f3e0be7
+59ed538f398fd6c989a5004ec5237fc655036df66ce3d801c163b1eb231d87cd1ab2606c1c0e31111682c2a4355f31feaae5e39616258c8d3d81533dbdffcdd2
+3b9ed9c8a8d53845cfdd3617b97a83b4e014c40426d4836e02568188c2de27a1efa009ebee723792d312c90f9c478f8093897809f9ab5596b8bc1bff9072f6b9
+c6825172f470e0882d9a963607b9278602a179b4f3e8a33bfe66f3da10917bffe87b723abbc008bb8fecaab1d5642a32e7c487c00a3500aa8e689e0bd0af8939
+874fb0a1423908f8825bf5e0fca963537010a0708fcb4f808284dcc4935f01c0be87b4467de6125a2df99e407fb067809b640040a5d326cf21c052470b847e50
+33f0c2f4fc44626f02465a656a821e3ff0d9e20136605261aac5a8c9cf8cd3e19a17664c2e6d40c812e31dbfd1865c5a468ec0c02208dd25bb957d02875229bc
+2dd6ea87ee3df6c4a3cd1fbc83c320178c1beceaf23637320603e2ee31371b1619d966223c4840107404e972cd392b26ad189d387e6046dea93046be7fe0d5dd
+7f7b6917c43196f4d715d3639a0291fdf002c40a61a9a29aa22492d16f93981aa349505986bb8ebfed6e784756e0c8d5e2fe1ba84dcb44ba141ebaeb6ac2778c
+5936d2a386deb41e2d6e69cb4383657c58f1c11b07fffd4cc9335021221321399ab3bb6dd025347d59b2b5ad0edc7303ba11360840fa421489175dc8e540296b
+05fa46770f9933a3c84830e8d4ca7fac2af96a5763a476aa0a316f3205e413a82c174b93511ac7e8b32e227a022eb6205842fc55a29f986638dc068d55fa7335
+9aca4a3412f50fa16428236a066294d804a4f023328840199e6536e8c996c0440b8aea2a589a945d845f08640d1c2560b3390e95455eb00063c329af5ef98010
+148374e1c09dd85aa26d2c7d1c8f25ab53640ed23f32d76667f3116b0c336228387bf88d9247de2c8586811e6fbd74f283d7cf88996c17d915858810c9212449
+3da2aca4a07348271ed244977221ef690ff656e0eabbd40a3a74b4a1223a2ab1089c2898415235aebbcb2d5f429628e1c540e191d18b5963faa4ea9323d6c360
+69917906a8a455f5733349b624e16ae289c46f64503f7deb9cdc642213240a5f75f78652d1534dc612848567162e989587269d760fb244f130d28000060c190b
+e4d95846dd0c170a112d9c87e7dd2442457409b84442191f51c48f46c68cf1195027b0f560b7443889bf31364c98c2bc38a931b817a9c0e15ab254474c0a231c
+8ec94deb5b46c4386c7babeb5855bf8121f24616990a8ad22f5c98b9ec92c439672a90b62696406f00ca6dd42c233fe6c7e74b0294d051a2984261d1c40d8f8f
+e19518a41fe9abc756953ef8af3da42b41f1bb45e39eb899a4b39eb2404b0c85388806420e19f12b47dc3eb78cbed53cf2368510f28769b33343ea75c8632979
+aa48f0006aaba84d93b3d37da8cc5c383a72f4fd6d07223fa2d2b48c1967e69cb5b0f0a25f172e5a3c7ac9a8c451728543d643fd668e6bdafd893e222bfee6a5
+13d63c737e5aa25e62b29e20f7f6eb25d871e485835fcc189da2d7d2703154d43a9109860ab8b92af781257b5ad7fb3bb6887e5d05a32b30e55d2a02d927047b
+89c220ba3ba2820472f368a8e526a6135f1e2484f80a0f189b70e90349382279996483a1984d1995028a11ae26d6c10f00876dc740ca01f13b3441ea3eb484f0
+905aedb40fd6cefc66fbcc6fb64efb685df11bef9df6e9973913a7850c7ad65b7af5b2dd8b4f631bea636ef9a4f4c9a97a92b329229c780a4035440e0ceac112
+2b6276f5c4dbfbef7d79b7f4d58a85a371e263da3431da920b182259499689883678083bbf0bbaca9147207ea36434e9a206438a29250d22540cb940e8912422
+f7f1da96d51f92efc016109e124b6f4d6ddb7bab845e51ab130b4252648d7de5d231973f3fff8547ce7ce4c1d90ffe65d6bdf7ccfcf38dc537c17f2b7dff42e9
+73cb3efecd7727be933e06fbbf30853c61098dc7e7267ff2f8428de47857523b6a3a2ef9eb975f9684938d0fd674cc9c948ae4647c4fa9e14c96f92ae56e5aa3
+34e5f4f13aca5c789342a12369b7c4e5e623b7f6299aebb589f234ba4443cdeec64d16155124031c243d3cce884d016b26837a4201716143b84c1f9326ca7cbc
+e881ebf506dc9e601068e379a3413d3a2f61e018f696a6c8a45743cef0e473e6a913a0d3c4499591919b74d9e52433497499d86baaaceb77377cfef9c0aef084
+24d288a948a24c105fcf21082af5f7beeff9d4fb07fefc12799903caa5e715be70c7dc41ae8445cd048894ee60109c512a48525c92ecde7f5dfbe6991d3b17c1
+a529e5a3ca85af384a4209c47f0b60202ac5e0c5250d6fbe059005eaebea5f7b5d8acf0cbfe9169661584f186a88bcc98a04c2ead74c5a1175d37366f6cc744b
+288e0752d43beabea9ff5a1ab72037312a950ba11589994d1f9d7afbe5c5f880806c5d73cf675beb8ed4868263f876fc8814a4b5499d68531784ad692c930b30
+5a780642129fd116980a168b720d1a1b7240e017a3d98095f3472793a2ab68a84d2cb4a4259a88cf3dc82121d3d91b08924414f2d61cd9373da6200529c290a2
+4e4f00578f6c2ebc4a869cbc8c447d4cfdcab66b877c300092b8f19398012a7fe239f3185d288648b60ff66c75654ca8490f413168a4501324e91d939b0ed2fc
+f98f0fddf91c9915225b8b4f1ffef29d73e1761aa47ed457c4fc9666411087862263136547a07b9775eb39b873e0aa7b418e0cba0d465c952145bc438b000356
+68dfbb6bff8a2bf65e7379d583f7db779548430c5b7eb92a3994678f8f08c1c95a1e7161c4a2efd8fc71b8fa2acfb0c9893b20767c4c4f32445e26029d4667c6
+cb1ddc77edf415178cc147971b794bbcbd377c36e0e1022221cdc80afb6767045db5ac3b0465693dc6dceb69259478e20c13b705a96c7103cdcf1850434e7d76
+8609c0226128a71f9128cc03202b2e4c821b505a4ff1c8248517c1571e79de78cb88d3ed878d83833e6772564c85dabe67a76c7e81b31a0a3306924c9596661e
+5324db0788deb2eed829b94415174d45f2820bfc234c1b327f30f52e0a28afad2bffd33fb7113afa827f583af1ed47e6c3ca1e3ace5013b9f5a21587c1e1c4c1
+2691d318ea817038e4ddb7da0edfe5ef0c29c8469359f4ac21cc1314d8a0e4e085a5d8be619d7ddf5e45d05572f9a5d6f5f7fb3b1a49277d70c029860751ea16
+220a8e43933a4644ffd7198b22add4caae8a6617e907e2524a93264550c49935375c550ce10317081e40237ae1ceb9572d28223e5e25fde1c6cac957bcfbe717
+436c9eac519244d16f168aa6b3d230d69877a9f4c21b525de019c9c736a04473352c73426102b12a38dee30f221825bef74571c6842cf9267e8249535090046a
+49ca9c684583b3723327914ba3030beed9c829abf8439bde39b00ec206d9975e2ec7ddc956c47a2780d490a7898308d467c19488e9c2ab868c95773656ddf4c4
+1622ffbdecb24ba63ef53df99934014dca5c72ad865c0df211a538e28290987283680ddcf3f1ae867725086a8b8bcda38693f7e7e07e92df8f846dc9f711b2be
+2985bfab7edf8a67779c3dcf5d572bbb454aed258d76117ca24ae80eb8635e20c8b3e4e5c5e7f59154809c95b437b50a0732f498b8df974c1c9562c4fb2e3a3a
+439938e0792fdf7dd6adcb27618eb8f879b0a613c479e683327010d97ac181e8ef3fc27189bed06f2ebc439f712e962c79aafd8ec3015bffac717116e12bc7f2
+f65bf45aabc30b6f9ec707bce160500a5ff0ca1b674d145fcf81021eb0e8ac02a34e999e6c8084b5bb10d123cf6f583c6178460c0bb4e695e7fd2d2d1272c00f
+cce32f489a7d660c442626e34211d1dc12530aae599173dd8d9a94b02889acdfa1e86cb5b6b93937660787035e15333165e2d979670fec33eac9ea6f6bae7ef0
+6ba2b170c245e7e4adbe6f5e0cdfcc297b21c6d748a526c5d7b999808c98a3709490d3ac499a654c9baf4bbfc052788f65d41dfaecdf483983b4566b1e55e82c
+3f824c02f2fe2e31e54b9239f8d10fcb32178d4d9d37cf38b240658ec37d16c9a9db22347f51b681112d2d8851bc9e63fe8805522420b2005b7a95019782609b
+8f4d1ef7e8592b732cb99852529c766c7eda81cae60e870fd3fbed82b1530a9313114b8c0bfb442085ce9d9133777ad6d7250d2e17ce2daf53ab169d39420eba
+43ad74d5be20e5a891edd3261987df26bf5b4e9a0682a1facc8bb429e76a930b1955b236699a2e6301123ca2e619fbf530d88cd64ef79603cd5f6c6f3ad16e77
+743a1f7d61f1a2feefef903ac26b3b9cbd70e805bd2eae303b21a6665df7ec53950fade4dc5dc49f2c28607ea62dbc38e686c2d51970d8415675d249af1e490d
+3b7a3b9a5dcdab6b579fe8ac8763f3fa49bf9b9dd32fa433b0ff43359d8bee5a7fa28ddcc7c434aebcb8e8d625c53e5f80d853fd52dda39be2da627eac749580
+adc47de235367042137f9e3e7dae42198f4b0683003560eb3e7af76dce8a7238a8e3274db54c9c183f750650289eae04461b9d7ce5e49cf77df5d792b63d10ba
+6026b7cfb873f9b8e5433808fdaa387afd2bdf2cfb62675d5e66dc9ac7ce8f15e724f58fb7f5bcf849b9dded7bfeb639da7e95049ff52b77e3f3beae6aced795
+58fcb821fbda9821ce534eecd46f22827044921d097446e5039cb2ef880abeb6aaba679e6efd709da0a6e76c3f8010fbf769fdd3d4bdfb851d4fbe1b7653918c
+0a04eca594ff41cb82d372d73d79e1a96a0df57b1c27e91d44432c07dbcb3eaefc7857e38efbce7be08cd4b9436c1555add7830bc6cec29c8493f8c54fdd2bdb
+0b83a0519b82778e9c9a6231bb3b35d44e3d8b21d710dc6e286138d3436ef15356bce7c59d7f7fa7df8dd121f6fed3426d888346550b0801a4b9fd98a4951f36
+ee4fd8ea3f0ab59f70de3fa0ab0fbe39565ed735c4d78cc9fd43b34e8ed7dfb868dc2017e27fc064fe0b9bfc1741edbf7077ffbf5af2ff02b111246c370d63510000000049454e44ae426082}}{\nonshppict{\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw5450\pich1217\picwgoal3090\pichgoal690\wmetafile8\bliptag1072981858\blipupi96{\*\blipuid 3ff467624d8937d882d4df836ae2715a}010009000003fe3700000000d537000000000400000003010800050000000b0200000000050000000c0246003601030000001e00040000000701040004000000
+07010400d5370000410b2000cc002e00ce0000000000450035010000000028000000ce0000002e0000000100180000000000686f000000000000000000000000
+000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7c6adce9c7bcea584ce9c84cea584ce9c84cea584ce9c84cea584ce9c84cea584ce9c84
+cea584ce9c84cea584ce9c84cea584ce9c84ce9c84d6ad94ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffc6947b9439009439009439089439009439009439009439089439009439009439009439089439009439009439009439089439009439009439
+00b57b52ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffff0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdeefff6b7bd62121c61829bdefefffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffce9c7b9439009c4208943900
+9439089439009439009439009439089439009c42089439009439089439009c42089439009439089439009c4208b57352ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffd6efd684c68442a542c6efc6ffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffefe7deffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7ffffc6efffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffff
+fffffffffffffffffffffffffffff7efe7debda5bd7b5aad63399c4a21f7e7b5fffffffffffffffffffffffffffffffffffffffffff7efeff7dedef7efe7efde
+d6ffffffffffffffffffffffffffffffffffffffffffffffff9494e71010b50008b50008b50008b5b5b5efffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffefefffefefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7efcee7ce7bc67b52ad5a5ab55ac6e7c6ff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffefded6a55221943900943900943900bd8c63efded6efdeceefd6ceefded6efd6
+ceefded6efdeceefded6efd6ceefded6efdeceefded6efd6cef7efe7ffffffffffffffffffffffffffffffffffffffffffcef7ff63ceef4aceef8cdef7d6f7ff
+e7f7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7ff6363ce3942c63942c6737bdea5ade7e7e7ffe7e7f7efeffff7ffffff
+fffffffffffffffffffffffffffffffffff7fff76bb57339a539319c31319c31add6adffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffff7efce947ba55a29bd7b52fffffffffffffffffffffffffffffffffffffffffffffffffffffff7efe7
+c69473c68c6bfffff7ffffffffffffffffffffffffffffffbdefff52cef721b5e710b5e79ce7f7ffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffefd6ceb5734a9c4a18943900
+943900943900943100e7d6a5fffffffffffffffffffffffffff7efce9c84bd845a9c5221943900943100943900e7cebdffffffffffffffffffffffffffffffff
+ffffffffff3942c60008b50008b50010b50008b5848cdeffffffffffffffffffffffffffffffffffffffffffe7e7ff4a52ce2931c62931bd7b84e7d6d6f7ffff
+ffffffffffffffffffffffffffffffffffffffffffff9cde9c4aa54a39a539319c3139a539299c297bc67bffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffdec6ad9c4208943900943908b57b52ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffa5e7ff10b5e710b5ef10b5e710b5ef10b5e721bdef52ceef7bdef794def7d6f7ffefffffffff
+ffffffffffffffffffffbdc6f73139c60010bd0008b50008b50008b50010bd0008b50008b51821bd424ace6b73d6737bdeb5bdefffffffffffffffffffc6f7c6
+319c31319c3139a539319c316bbd6bffffffffffffffffffffffffffffffffffffffffffffffffb5deb57bc67b7bbd7b8cc68ce7f7e7ffffffffffffffffffe7
+c6b5a55a29943900943900deb59cffffffffffffffffffffffffffffffffffffffffffffffffefdece9c5218943908944208bd7b5affffffffffffffffffffff
+ffefffff18bdef10b5e710b5ef10b5e729bdefe7ffffffffffffffffffffffffffffffffffffffffffffffd6f7ff9cefff6bcef77bdef7efffffffffffffffff
+ffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffbd8c63943100943900943908943900943908943900cea58cffffffffffffffff
+fffff7f79c52219439009439009439089439009439008c3100e7c6adffffffffffffffffffffffffffffffffffffffffff4a52d60000ad0008b50008b50000b5
+63a5e7ffffffffffffffffffffffffffffffffffffffffff949cde0008b50008b50010b50000ad6363d6ffffffffffffffffffffffffffffffffffffffffffff
+ffff52b55a319c39319c31319c39319c31319c3163bd63ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdebd
+a5944208943900943100c68c5affffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffbdf7ff08ade710b5e710b5e718b5e710b5e710b5e710b5e710b5e708b5e710b5e710b5e721bde75aceeffffffffffffff7f7ff2129bd0008b50008b500
+10b50008b50010b50008b50008b50008b50010b50008b51018bd2929bde7e7ffffffffffffffffffffbdefbd299431319c39319c3131a539399c39ffffffffff
+fffffffffffffffffffffffffffffffff7fff752ad5a319c3131a539319c3139a539d6efdeffffffefded69c42109439009439088c3100ce9c73fffffff7e7d6
+f7e7deffffffffffffffffffffffffc694739439009439008c3100a55221cead94ffffffffffffffffffffffffcef7ff10b5e710b5e710b5e710b5e708ade7c6
+f7fffffffffffffffffffffffffffffffff7ffff52ceef18b5e708ade710b5e718b5e7cef7ffffffffffffffffffffffffffffffffffffff0000ffffffffffff
+ffffffffffffffffffffffffad6b399439009c42089c42109c42109439089c4208ad6b42fffffffffffffffffff7e7de8c31009439009c42089442089c420894
+39009c4208c69473ffffffffffffffffffffffffffffffffffffffffff4a4ace0010b50008b50010bd0000b57b8cdeffffffffffffffffffffffffffffffffff
+ffffffff3942c60008b50010bd0008b50000b55a63ceffffffffffffffffffffffffffffffffffffffffffffffff63b563319c3139a53939a53939a539319c31
+63b56bffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffd6b59c9c4208943900943908c68c73ffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff73def710b5e710b5e721bdef18b5e718bd
+ef10b5e710b5ef10b5e718b5ef10b5e710b5ef08b5e7bdefffffffffffffffbdbdf70008b50010b50810bd0810b50818bd0008b50010b50008b50010bd0008b5
+2921bd84b5efeff7fffffffffffffffffffffffffff7fff752ad52319c3139a539319c314aad4affffffffffffffffffffffffffffffffffffffffffd6efd631
+9c3139a539319c3139a539319c31d6f7defffffff7ded69c42109c42089439009439089c4210fff7deffffffffffffffffffffffffffffffc68c6b9439009c42
+08944208ad6331c6947bffffffffffffffffffffffffffffffc6efff18b5ef10b5e718b5ef10b5e710b5e7b5f7ffffffffffffffffffffffffffffffff7bd6f7
+10b5e710b5e718b5ef10b5e74acef7ffffffffffffffffffffffffffffffffffffffffff0000fffffffffffffffffffffffffffffff7e7de9c4a189439089442
+08a552219c4a189c42109439009c4a10fffff7ffffffffffffdec6ad8c31009c42089c4210a552219c4a189c4208943900ad6331ffffffffffffffffffffffff
+ffffffffffffffffff848cde0008b50010b50008b50008b55a63ceffffffffffffffffffffffffffffffffffffe7e7ff0810b50010b50008b50008b50008b56b
+73d6ffffffffffffffffffffffffffffffffffffffffffffffff52ad5231a53939a53942a542399c39319c3163bd63ffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffd6ad94943908943900943900b57352ffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff7bdef708ade718b5e721b5e729bdef18b5e710b5e710b5e710b5e708ade718b5e729bde79c
+e7f7ffffffffffffffffffb5b5ef0000ad0010b50810b51018bd0810b50010b50000b5525ace3139c61010b5cec6efffffffffffffffffffffffffffffffffff
+ffffffff52ad5a31a539319c31319c3939a542f7fff7ffffffffffffffffffffffffffffffffffff7bd684399c39319c31319c39319c3163b563efffefffffff
+efded69c4a18943900943900943900943900c68c73ffffffffffffffffffffffffbd8c639439009439008c3100c68c63ffffffffffffffffffffffffffffffff
+ffffffffffc6f7ff10b5e710b5e710b5e710b5e708ade7b5ffffffffffffffffffffffffffffd6f7ff21b5e710b5e710b5e710b5e710b5e739bdefffffffffff
+ffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffe7bdad9439089439089c4a18a55a31ad63319c4a109439089c4a10ffffffff
+ffffffffffc69c7b943908944208a55221ad6331ad5a319c42109439009c4a18ffffffffffffffffffffffffffffffffffffffffffbdc6ef0010bd0008b50010
+b50008b53139c6ffffffffffffffffffffffffffffffffffff9c9ce70010b50008b50010b50008b50008b59494deffffffffffffffffffffffffffffffffffff
+ffffffffffff5ab55a319c3942a54242a54242a542319c3163bd63ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffd6ad949439089439009c4208bd8463ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffff73d6f710b5e718b5e729bdef21bde718bdef10b5e710b5ef10b5e74aceefd6f7ffffffffffffffffffffffffffffffffa5adf70008b50010b5
+1018bd0818b50810bd0008b54242c6f7f7ffe7e7ff9494deffffffffffffffffffa5ade7eff7ffffffffffffffffffff63b563319c3139a539319c3142a542f7
+fff7ffffffffffffffffffffffffffffffffffff5ab55a319c3139a539319c3139a5397bc67bffffffffffffefd6c69c42109439089439009c4208943900b573
+4affffffffffffffffffce9c849439009c39089c4210944208ce9473fffffffffffffffffffffff7ffffffffffffffffffc6efff18bdef10b5e710b5ef10b5e7
+31bdefffffffffffffffffffffffffffffff73def710b5e718b5ef10b5e718b5ef10b5e729bdefe7ffffffffffffffffffffffffffffffffffffffff0000ffff
+fffffffffffffffffffffffffff7cebd8c31009442089c4a18ad6b39a563319c4a189439009c4208e7d6c6ffffffffffffb5734a9439009c4208a55229b56b42
+a563319c4a189439009c4208efded6ffffffffffffffffffffffffffffffffffffdedeff0008ad0008b50008b50010b50810b5b5b5efefeffff7f7ffffffffff
+ffffffffff3942d60008ad0008b50008b52931c63952c6e7e7ffffffffffffffffffffffffffffffffffffffffffffffffff5aad5a39a53939a53942a54a39a5
+3939a5395aad5affffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcea58c943908
+943900943900bd8463ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff73d6f708b5e718b5ef21b5e721
+bdef10b5e718b5efade7f7d6f7ffffffffffffffffffffffffffffffffffffffffffffd6d6ff0000ad0010b50008b50810b50008b50810bd9c9cdeffffffffff
+fff7f7ffffffffffffff9494dea5adeff7f7ffffffffffffffffffff5aad5a319c31319c3131a539319c3194ce94ffffffffffffffffffffffffffffffcee7ce
+399c39319c39319c3139a53952ad52c6e7c6ffffffffffffd6ad94943900943900943908943900943900b5734affffffffffffefdece9439089439088c3100ad
+6331b57b52debda5ffffffffffffffffffefdeceffffffffffffffffff84def710b5e710b5e710b5e710b5e731bde7e7ffffffffffffffffffffffdeffff18b5
+e718b5e710b5e718b5e710b5e710b5e739bdefffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffd6b59c94390094
+4208a55a29ad6b42ad6b429c4a189c4208943900debdadffffffffffff9c4a109439089c4210ad6331b5734aad6b429c4a189c4208944208efded6ffffffffff
+ffffffffffffffffffffffffffd6d6ff0010b50008b50010bd0008b50010b50008b53139c63139c6525ace5a63ce4a52ce0010b50010b50008b51010b5d6d6ff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffceefd642ad4a319c3942a54242a54a42a542319c3952ad5af7fff7ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcea58c9439089439009c3908c68c6bffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff73d6f710b5ef18b5e721bdef18b5e718bdef18b5e7f7ffffffffffffffffffffff
+ffffffefffffffffffffffffffffffbdbdef0008b50008b50010b50008b50010bd2931c6f7f7ffffffffffffffffffffffffffffffffbdc6f7ffffffffffffff
+ffffffffffffffffa5d6a5319c3139a539319c3139a539319c316bbd737bc67b84c68484c6848cce8c5ab55a39a539319c3139a539a5d6a5ffffffffffffffff
+ffffffffdeb5a59439009c4208943900943908943900bd7b5afffffff7e7d69c4a189c3908943900943100bd846bfffffffff7efffffffffffffffffffffffff
+efd6c6fffff7ffffff6bd6f710b5ef10b5e718b5ef10b5e78cdef7c6efffffffffffffffffffff6bd6f718b5ef18b5e721bdef21b5e718bdef10b5e752d6f7ff
+ffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffbd84639439009c4208a55221b56b42ad6b42a55221943908943900
+ce947bfffffffffff79c4a189439009c4a10a55a31b5734aad6b39a55218943900943908dec6adfffffffffffffffffffffffffffffffffffff7f7ff2931bd00
+10b50008b50008b50008b50010b50008b50810b50008b50008b50008b50008b50008b50010b50818b5d6d6f7ffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffaddeb5319c3139a53939a5424aad4a39a53931a53942a542d6efd6ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffce9c84943908943900943900c69473ffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffff73d6f708ade718b5e718b5e718bdef10b5e721bdeff7ffffffffffffffffffffff8cd6f77bd6f7ffffffffffffffffffa5a5e70008
+b50008b50008b50010b50008b53139c6f7f7ffffffffe7e7f7ffffffffffffffffffe7efffdedef7ffffffffffffffffffffffffd6efd631a539319c31319c39
+319c3131a539319c3139a539319c3131a539319c31319c39319c3131a539319c31d6efd6ffffffffffffffffffffffffd6b59c94390894390094390094390094
+3900a55a29d6ad94a54a21943908943900943900943108f7efceffffffffffffffffffefdecefff7f7fffffff7efeff7e7deffffff6bd6ff10b5e710b5e710b5
+e710b5e7d6f7ffffffffffffffffffffdef7ff18b5e710b5e721bdef29bde729bdef18b5e710b5e74aceefffffffffffffffffffffffffffffffffffffffffff
+0000ffffffffffffffffffffffffffffffb573429c4208944208a55a29ad6339ad6b39a552219c4208943900bd845afffffff7e7de9442089c42089c4a18ad6b
+39b5734ab56b429c4a189c4208943900e7c6adffffffffffffffffffffffffffffffffffffffffff6363d60008b50010b50008b50010bd0008b51018bd848cde
+0810bd0008b50010b50008b50010bd0008b51018bdd6d6f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffb5deb539a539319c3942ad4a4a
+ad4a42a542319c3163b563ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffce9c84943908943900943908ce9c84ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff73d6f710b5e710b5e7
+21bdef18b5e710b5ef21b5e7ffffffffffffffffffb5efffade7ffa5e7f7ffffffffffffffffff9ca5e70010b50008b50010bd0008b50010b52931c6f7f7ffff
+ffffe7e7fffffffffffffffffffffffffff7f7ffffffffffffffffffffffffffdef7de319c3139a539319c3139a539319c31299c298cce8c63b563299c3139a5
+39319c3139a539319c3139a539cee7ceffffffffffffffffffffffffdeb59c9439009442089439009c42089439009439089439009c4208943900943908943900
+e7c6b5ffffffffffffffffffffffffc6947be7c6b5ffffffffffffffffffffffff6bd6f718b5ef10b5e710b5ef10b5e794def7ffffffffffffffffff73d6f710
+b5e718bdef29bde739c6ef29bdef18bdef10b5e794e7ffffffffffffffffffffffffffffffffffffffffffff0000fffffffffffffffffffffffffffff7a55210
+8c31009c42089c4a18a55a299c52219c4a109439089439089c5221fff7f7dec6b59439009439009c4a18ad6339b5734aa55a319c4a109439009c4208debdadff
+ffffffffffffffffffffffffffffffffffffffff9494e70000b50008b50010b50000b51821bd9494deffffff5a63ce0000b50008b50010b50008b50008b52129
+bdf7f7fff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffb5deb5319c3139a53942a5424aad4a39a54239a53939a539a5d6a5d6efd6ffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcea57b94390094390094
+3900dec6b5ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7bdef708ade718b5e710b5e718b5e710b5e731bdeff7ffffffffffe7f7
+ff94def7ffffffffffffffffffffffffffffffa5a5e70008b50010b50008b50008b50008b51018bde7e7f7ffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffceffce399c39319c3131a539319c31319c317bbd7bf7fff7cee7ce319c31319c3131a539319c31319c39319c39def7deffffffff
+ffffffffffffffffe7cebd9c42109439009c42089442089c4208943900943908943900943908943900943908efd6c6fffffffffffffff7effffff7fff7f7fff7
+f7ffffffffffffffffffffffff73d6f710b5e710b5e710b5e710b5e739ceefffffffffffffdeffff18b5e710b5e718b5e731bdef39bde729bdef10b5e710b5e7
+b5e7f7ffffffffffffffffffffffffffffffffffffffffff0000fffffffffffffffffffffffffffff79c4a109439089439089c4a109c42109c42109442089c42
+08943900943908c69473b5734a9431009c42089c4a18ad6331ad6339a55a299c42109c42089c4a10ffffffffffffffffffffffffffffffffffffffffffffffff
+a5a5e70000b50010bd0008b50000b5848cdeffffffffffffdedef72129bd0008b50008b50010b50008b5b5b5efffffffbddeffcecef7ffffffffffffffffffff
+ffffffffffffffffffffffe7f7e7299c2939a53942ad4a4aad4a4aad4a39a53931a53942a54284c684d6efdeffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdead8c943900943900a55221e7d6c6ffffffffffffffffffffffff
+ffffffffffffffffffffffffffffff84d6f710b5e710b5e718b5ef10b5e710b5e7a5f7ffffffffffffffffffffdeffffffffffffffffffffffffffffffffffce
+cef71018bd0008b50010b50008b50010bd0008b57b84debdbdefdee7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffefffef4aad5239a5
+39319c31319c315ab55affffffffffffffffff8cc68c319c31319c3139a539319c3173ce73ffffffefffefbdefbdfffffffffffff7e7de9c4a109c42089c4208
+9c4a189c42109c42089439089c42089439089c4208943900a55229efd6cefffffff7efe7efdeceffffffffffffffffffffffffffffffffffff73d6f710b5ef10
+b5e718b5ef10b5e742cef7ffffffffffff84def710b5e710b5e721bdef31bdef39c6ef29bde718bdef10b5e77bd6f7fffffff7ffffffffffffffffffffffffff
+ffffffff0000ffffffffffffffffffffffffe7cec69442089439009439089439009442089439009439089439009439089439009c4a189442109439089439089c
+4a109c4a18a552219c4a189c4210943900943908debdadffffffffffffffffffffffffffffffffffffffffffbdbdef0010b50008b50008b50000ad6b73d6cece
+ef8c94dec6c6ef6b73d60000ad0008b50008b52931c6f7f7ffffffffdef7ffbdb5efffffffffffffffffffffffffffffffffffffffffffbde7bd299c2939a539
+42a54252ad5242a54239a539319c3139a539cee7cedeefdeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffce9c849439089439009c4a18efded6ffffffffffffffffffffffffffffffffffffffffffffffff7be7ff08ad
+e710b5e710b5e710b5e708ade7bdf7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffd6d6f70810b50010b50010b50810bd0010b50010b5
+0008b50010b51018b53139c63942ce525ace737bd6c6c6f7ffffffffffffffffffffffffffffff84c684319c31319c39299c2952ad5ac6e7c6cee7ce9cce9cde
+efde299c29319c39319c31429c42d6f7d6ffffffffffffefffefffffffffffffefded69c4a109439009442089442089c42109439009439089439089c42089439
+009439009439009c4210bd9473ffffffffffffffffffffffffffffffffffffffffffffffff73d6f710b5e710b5e710b5e710b5e731bde7fffffff7ffff29bdef
+10b5e729bdef18b5e729bdef29bde721bdef10b5e710b5e74aceefffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffdebd
+ad9439009c42089439009c4208943900ad63399c42109442089439089c42109442089c42109442089c42109c42089c42109442089c4210944208944208943900
+a55a29fff7effffffffffffffffffffffffffffffffffffff7f7ff0818bd0010b50008b50008b52931bdc6c6f74a52cebdc6ef525ace0000b50008b50010bd42
+4ac6efefffefeffff7f7ffd6d6f7ffffffffffffffffffffffffffffffffffffffffff63b56339a53939a5394aad4a4aad4a42a542319c3139a54239a539ceef
+cef7fff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffb5734a943908943900a55221efe7deffffffffffffffffffffffffffffffffffffffffff94e7ff08b5e710b5e718b5ef10b5e77bd6f7ffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffe7e7ff1829bd0008b51018bd1021bd1021bd0810b50810bd0008b50010b50008b50010b50008b5424a
+cebdc6efffffffffffffffffffffffffffffff7bd67b399c39319c3139a539299c31b5deb594ce949cd69cb5debd319c31319c3139a53939a542ffffffffffff
+fffffffffffffffffffffffff7e7de9c4a109439089439009c42089439089442089439009c42089439089439089439009c4208943900943100c69473ffffffff
+ffffffffffffffffffffffffffffffffff73d6f718b5ef10b5e710b5ef10b5e721bdef6bd6f74ac6ef10b5e721bdef39c6ef10b5e718b5e721bdef18b5e718b5
+ef10b5e74acef7ffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffdebda58c3100943900943908943900943100ce9c84a5
+52219439009c4208944210a552189c4a189c4a109439089439089439089439089439009439089439009439088c3100f7efe7ffffffffffffffffffffffffffff
+ffffffffffffff2931c60008b50010b50008b50000b58c8cde6b73d6a5ade7424ace0000ad0010b50008b51821bde7deffefefffffffffffffffffffffffffff
+ffffffffffffffffffffffffbddebd319c31319c3942ad4a4aad524aad4a399c3931a539cee7ceffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7e7de9c4a18943908943900b57b52ffff
+ffffffffffffffffffffffffffffffffffffff9cdef708ade710b5e710b5e710b5e7c6efffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffff2931bd0010b50810b52129bd1821bd0818bd0008b50008b50008b50008b50000ad0008b5bdc6efffffffffffffffffffffffffffffffffffffad
+e7ad399c3931a539319c31299c3163b563addeb58cc68cadd6ad299c2931a539319c3139a539c6e7c6ffffffffffffffffffffffffffffffefded69c4a109439
+00943908943900943908ad734a9c42108c3100943900943900943908943900943900943900943100b5845affffffffffffffffffffffffffffffffffffc6efff
+10b5e710b5e710b5e710b5e710b5e710b5e710b5e710b5e710b5e718b5e708b5e710b5e710b5e710b5e710b5e710b5e729b5e7f7fffff7ffffffffffffffffff
+ffffffffffffffff0000ffffffffffffffffffffffffd6a58c9431009439089439009c42088c3100d6ad94ad6339943900944208a55218a55a29ad63319c4a18
+9c4208943100bd7b5ab5735a9439009439009c4208943900943900e7cec6ffffffffffffffffffffffffffffffffffffffffff5a63ce0010bd0008b50010b500
+08b52129c6737bd6b5b5ef424ac60008b50008b50010b50008b5e7efffffffffffffffffffffffffffffffffffffffffffffffffffffffff6bbd6b319c3142a5
+4252ad5263b5634aad4a39a542319c31bddebde7f7e7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffefdece943908943908943900e7ceb5ffffffffffffffffffffffffffffffffffff6b
+ceef18b5ef10b5e710b5ef08ade7a5efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3942ce0008b51018bd1821bd1821
+bd0810b50010b50008b51821bd5a63d64a4ad6525ad6dedef7ffffffe7effff7f7fffffffffffffffffffff7fff742a542319c3139a539319c31319c318cc68c
+a5d6a5addead319c31319c3139a539319c3184c684fffffffffffffffffffffffffffffff7e7de9c42109c4208943900943900943900d6b59cce9c7b9c42108c
+31009c42089439009439089439009c4208943900943900c68c73ffffffffffffffffffffffffffffffc6efff18b5ef10b5e718bdef18b5e718bdef10b5e718b5
+ef10b5e752ceef5aceef52cef742c6ef10b5ef10b5e718b5ef10b5e742d6f7ffffffefffffd6f7ffffffffffffffffffffffffff0000ffffffffffffffffffff
+ffffbd7b5a9439009439009439089439008c3100ce9c84bd7b5a8c31009442089c4a18ad6339a55a319c4a18943900943100efdec6ffffe78c31009439089439
+009439009c4a18e7c6b5ffffffffffffffffffffffffffffffffffffffffff9ca5e70000ad0008b50008b50008b50008b58c94ded6d6f72931c60000ad0008b5
+0008b50000b5c6f7ffffffffffffffffffffffffffffffffffffffffffffffffffceefce319c3139a53942a5425ab55a63b56352ad5239a539399c39319c3131
+9c31add6adffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffbd7b5a943900943900b5734affffffffffffffffffffffffffffffffffff7bd6f710b5e710b5e710b5e710b5e731bde7f7ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3942c60008b50810b51018bd0810b50010b50008b51018bd3131bdf7f7ffffffffff
+ffffffffffffffffbdc6efdedefffffffffffffffffffff7fff7399c39319c39319c3131a53929942973bd73deefde94ce94299429319c39319c31319c3194ce
+94fffffffffffffffffffffffffffffff7e7dea55218943900943900943900943100c68c73ffffffefd6cead5a318c2900943900943900943908943900943908
+943900943900e7cebdffffffffffffffffffffffffc6efff10b5e718b5e718b5e731bdef29bde718bdef10b5e721bdefb5e7f7ffffffffffffdef7ff10b5e710
+b5e710b5e710b5e739c6effffffffffffff7ffffffffffffffffffffffffffff0000fffffffffffffffffffffff7ad63399439009c42089439009439088c2900
+d6a58cc6947b943100943908a55218ad6331ad63399c4a189c4208943908f7e7defff7e79c4a18943900943908943900ad6331fff7f7ffffffffffffffffffff
+ffffffffffffffffffffffb5e7ff0808b50008b50010bd0008b50008b58c94dee7e7ff0008b50010b50008b50010bd0008b59cade7efefffffffffffffffffff
+ffffffffffffffffffffffffff63b56339a53939a5394aad4a5ab55a63b5634aad5242a542319c3939a539319c315ab55af7fff7ffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7d6bd9c390894
+39009c4208efd6c6ffffffffffffffffffffffffffffffc6efff18b5ef10b5e718b5ef10b5e708b5e784d6eff7ffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffff424ad60008b50810bd0810b50810bd0008b53942c6f7f7ffffffffffffffffffffffffffdedef7f7f7fffffffff7ffffffffffffffff
+ffffffffffff6bbd6b319c3139a539319c31319c315aad5affffff63b563299c31319c3139a539299c297bbd7bdef7defffffffffffffffffffffffffff7f7a5
+5221943908943900943908943900debdadfffffffffffff7efe7b56b428c29009c42089439009c4208943900943908a55229efc6adffffffffffffffffffffff
+ffceefff18bdef10b5e729bdef39bdef39c6ef21b5e710b5ef42c6efffffffffffffffffffe7ffff21bdef10b5e710b5ef10b5e708b5ef9cdef7ffffffffffff
+ffffffffffffffffffffffff0000ffffffffffffffffffffefefa55221943908943900943900943900debdadf7efe7d6b59c8c29009442089c4210a55a31a55a
+299c4a189439009c4a10fffff7ffffffa55a29943900943900943900ad6b42ffffffffffffffffffffffffffffffffffffffffffffffffdee7ff1018b50010b5
+0008b50008b50000ad6363d69ca5e70000b50008b50010b50008b51821bd948cde6363d6ffffffffffffffffffffffffffffffffffffefffff52a54a319c3139
+a53942a5424aad4a42a54242a542399c3939a539319c31319c39319c31b5deb5ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff79c52219439008c3100e7ceb5ffffffffffffffffffffffff
+ffffffcef7ff10b5e710b5e710b5e710b5e700ade7ade7f7d6ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3139ce0010b50008b508
+10b50008b50010b53139bdfffffffffffff7f7ffc6c6efffffffd6d6f7adadeff7f7ffffffffffffffffffffffffffffffffadd6ad31a539319c31319c39319c
+3142a542cee7ce52ad52299c2931a539319c31299c298cc68c7bc67bfffffffffffffffffffffffffff7f7a55a31943900943908943900943100cea58ce7c6b5
+d6b5a5fffffff7efefad63398c31009439009439009439089439009c4210e7d6c6ffffffffffffffffffffffffe7ffff18b5e718b5e721b5e742c6ef39bde721
+bdef10b5e74aceefffffffffffffffffffe7ffff18b5e710b5e710b5e710b5e708ade794e7ffffffffffffffffffffffffffffffffffffff0000ffffffffffff
+fffffff7dede9439089439009439089439009c3908fff7e7fff7efcea59c9439089439009c4a10a55221a55a299c42109439009c4a18ffffffffffffb56b4294
+39009c42089439009c4a18efd6c6ffffffffffffffffffffffffffffffffffffffffffffffff3142ce0008b50010b50008b50008b52931c65a63d60008b50010
+bd0008b51018bdadade7def7ff94b5efffffffffffffffffffffffffffffffffffffadefce319c3139a539399c3942a54239a53939a539319c3139a539319c39
+39a539319c3139a53939a539ceefceffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffff7f7ad6331943900943900d6b59cffffffffffffffffffffffffffffffdef7ff21bdef10b5e710b5ef10b5e739c6
+efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3942c60008b50810b50010b50810bd0008b54242ceffffffefefffc6ceef
+3942cefffffffffffffffffff7f7ffffffffffffffffffffffffffffffffbdefbd319c3139a539319c3139a53939a53984c68442a54231a539319c31319c31a5
+d6a5e7f7e7d6efd6ffffffffffffffffffffffffffffffad63319439089439009439088c3100b56b42efd6cea55229c69473ffffffefded69c4a109439009c42
+08943900943908a55210ffffffffffffffffffffffffffffffefffff21bdef10b5e729bdef42c6ef39c6ef21b5e710b5ef29bdefdeffff8cdef7ffffffcef7ff
+18b5ef10b5e718b5ef10b5e718b5efefffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffe7e78c31009439009439009439089439
+00fff7e7f7efe7f7e7c6a55a189439009439089c4a189c42109c42089439009c4a18ffffffffffffbd946b9439009439009439008c3100bd7b31ffffffffffff
+ffffffffffffffffffffffffffffffffffff525ace0008b50008b50010b50008b50010b50810b50010b50008b50008b50810b5e7e7ffffffffffffffffffffff
+ffffffffffffffffffffffffffff7bbd73319c39319c3139a539319c31319c39319c31399c39319c31319c39319c3139a539319c31319c31b5deb5ffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7
+a55a319439088c3100deb59cfffffffffffffffffffffffffffffff7ffff18b5e710b5e710b5e710b5e739bde7ffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffff3139c60008b50008b50810b50008b50008b52131bd848cde8c94deb5b5ef7b84deffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffd6f7d642a542319c3131a539319c3131a539399c3939a539319c31319c39319c31bde7bdffffffffffffffffffffffffffffffffffff
+ffffffad6b399439009439009439009439008c3100d6ad94dec6ada55229cea58cffffffc6947b943100943900943900943900944208deb59cffffffffffffff
+fffffffffff7ffff18b5e718b5e721b5e742c6ef39bdef21bdef10b5e710b5e7bde7f7ffffffffffffcef7ff10b5e710b5e710b5e710b5e731bde7ffffffffff
+ffffffffffffffffffffffffffffffff0000ffffffffffffffffffefdece9439009439009c4208943900943900ffefdeffffffffffffc6944a8c31009c420894
+42089c4208943900943908b57352ffffffffffffcead8c943100943908943900943908bd7b4afffffffffff7ffffffffffffffffffffffffffffffffffff9494
+de0008b50810bd0010b50818bd0810b50810bd0010b50010b50008b50008b594b5effffffffffffffffffffffffffffffffffffffffffff7fff739a539319c31
+39a539399c3939a539319c316bbd6bdeefde73bd73319c3139a539319c3139a539319c31bdefbdffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7efe79c4210943900943900e7c6adffffffffffffffff
+ffffffffffffffffffff29bdef10b5e718b5ef10b5e721bdefdef7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7373de0008b5
+0810bd0010b50810bd0000b53942ce6b73d6adadeffffffff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff5ab55a39a53931
+9c3939a53939a53939a539399c3939a539319c3139a53984c684ffffffffffffffffffffffffffffffffffffffffffad6b429439009439009c42089439009431
+00a55221fffffffff7efe7c6b5fff7f7f7ded69442109439009439009c4208943900ce9c7bfffffffffffffffffffffffff7ffff21bdef10b5e729bdef39bdef
+42c6ef21bde718b5ef10ade7a5f7ffffffffffffffb5e7ff18bdef10b5e710b5ef10b5e729bdefefffffffffffffffffffffffffffffffffffffffff0000ffff
+ffffffffffffffdebda59439009439089439009439008c3100f7e7deffffffffffffce9c84943908943900943908943900943900b5734af7efe7ffffffffffff
+debdad9439009439009439088c3100b56b42fffffffff7f7ffffffffffffffffffffffffffffffffffffd6d6ff0008b50008b50810b50810b51018bd0010b500
+10b50008b50010b50000ad94c6efffffffffffffffffffffffffffffffffffffffffffe7f7e739a53931a539319c3131a539319c3139a539c6e7c6ffffffc6e7
+c631a539319c31319c39319c3131a5399cce9cffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffdec6ad943100943900943908efdeceffffffffffffffffffffffffffffffffffff21bde710b5e710b5e710
+b5e700ade7a5e7f79cdef7ffffffffffffffffffffffffffffffffffffffffffffffffffffff8484de0010b50008b50010b50008b50008b52931bdb5bdefcece
+f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff6bbd6b319c3139a53939a53942a542399c3939a539319c3131a539
+319c3184c684ffffffffffffffffffffffffffffffffffffffffffb56b429439009439089439009439088c3100a55221f7f7effffffffffffffffffffffff7a5
+5a298c3100943900943908a55a29fff7f7ffffffffffffffffffffffffffffff21bde710b5e721b5e739c6ef31bde721bde710b5e718ade79cf7ffffffffffff
+ff6bd6f710b5e710b5e710b5e710b5e708ade7adffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffce9c849c420894390094390894
+3900943908e7cec6ffffffffffffe7cebd9439009439089439009c4208943900d6ad94fffffffffffffffffff7efe79c42109c42089439009439089c4210ffef
+e7fffffffffffffffffffffffffffffffffffffffffff7f7ff2129bd0010b50010b50818bd0810b50810bd0008b50010bd0008b58484defffffffffffff7f7ff
+ffffffffffffffffffffffffffffff8cce8c39a539319c3139a539319c3139a53939a539f7fff7ffffffffffff6bb56b39a539319c3139a539319c3142ad42f7
+fff7fffffffffffffffffffffffffffffffffffffffffff7efe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffa55229943900943900b57b52fffffffffffffffffffffffffffffffffffff7ffff21bdef10b5e710b5ef10b5e708b5ef84d6f7a5e7f7efffffffffffffffff
+ffffffffffffffffffffffffffffffffffffb5b5ef0008b50010b50008b50810bd0008b50010b53939c6a5adefadade7d6d6f7dee7f7ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffc6e7c639a539319c3939a53939a53939a539319c3139a539319c3184c684ffffffffffffffffffffffffffffffffff
+ffffffffffffffad73429439009439009c4208943900943908943900b57352debda5f7ded6f7e7e7e7c6b59c4a10943908943900d6ad9cfffff7ffffffffffff
+ffffffffffffffffffffffff31bdef10b5e721bdef21bde729bdef18b5e718bdef29bdefe7ffffffffffffffff73d6f710b5ef10b5e718b5ef10b5e718b5e79c
+efffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffc69473943900943900943900943908943900cea58cffffffffffffefefde943900
+943100943900943900943900bd8463ffffffffffffffffffffffffa54a188c3900943900943900943908deceadffffffffffffffffffffffffffffffffffffff
+ffffffffff525ace0008b50010b50008b50010b50008b50008b51821bd4a52d6e7e7ffffffffdedef7c6cef7ffffffffffffffffffffffffffffff84c684319c
+31319c39319c3131a53939a5428cce8cffffffffffffffffffaddead319c3131a539319c31319c39319c31a5d6a5ffffffffffffffffffffffffffffffffffff
+efded69c4a18ce9c84efdecefffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7bd8463943900943900943900e7cebdffffffffffffff
+ffffffffffffffffffffffffffff29bde718b5e731bde718b5ef9cdef7efffffefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcece
+ef0008b52129bd9ca5e70008b50008b50008b50008b50000ad0010b50818b51821bd3139c64252ce4a52ceefefffffffffffffffffffffffffffffffffd6f7d6
+319c3131a539319c3131a539319c3139a539399c425ab563deefdeffffffffffffdef7deffffffffffffffffffffffffffffffbd734a8c310094390894390094
+39089439009439008c31009431009442089c4a18943908943900943900943900efded6ffffffffffffffffffffffffffffffffffffffffff21b5e710b5e710b5
+e718b5e710b5e710b5e708ade731bdefffffffffffffffffff73d6f718b5e74aceef18b5e710b5e710b5e7a5e7ffffffffffffffffffffffffffffffffffffff
+0000ffffffffffffffffffad63319442089439009c4208943900943908ce9c7bfffffffffffffff7ef9c4a10a55a29944208ad6b42deb5a5e7c6adffffffffff
+ffffffffffffffad63399439089439009c4208943900b57352ffffffffffffffffffffffffffffffffffffffffffffffff7b7bde0008b50008b50010b50008b5
+3139ceadadefe7e7ffffffffffffffffffffd6d6f7b5bdf7ffffffffffffffffffffffffefffef52ad5239a539319c3939a539319c316bbd6beff7efffffffff
+ffffffffffe7f7e74aad4a319c3139a539319c3139a5397bbd7bfffffffffffffffffffffffffffffffffffff7e7de943900943900943900b57b52cead8ce7ce
+c6fff7f7fffffffffff7ffffffefded6e7c6b5ad63319439009439009c4208ce9c84ffffffffffffffffffffffffffffffffffffffffffffffff73d6f721b5e7
+ffffffc6efffa5e7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdedeff0000b5a5a5efffffff424ace0008b50008b500
+10b51821bd0008b50010bd0008b50008b50008b50010bdcecef7ffffffffffffffffffffffffffffffefffef63b563319c3139a539319c31399c399cce9cefff
+efffffffffffffffffffffffff8cce8cffffffffffffffffffffffffffffffbd84399431089439009c42109439009439089439009c42089439009c4a18a55a31
+9c4a109439089c42089c4210ffefe7fffffffffffffffffff7efe7fffffffffffff7ffff18bdef10b5e710b5ef10b5e718b5ef10b5e763d6f7c6efffffffffff
+ffffffffff63ceef6bdeffffffff6bd6f710b5e718bdefade7f7ffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffb5734a943100943908
+943900943900943900ce9c84fffffffffffffff7f7bd8463dec6b5ce9c84f7efefffffffffffffffffffffffffffffffffffffce947b94390094390894390094
+3900b5734affffffffffffffffffffffffffffffffffffffffffffffffb5bdef0008b50008b5636bd66b6bd6adb5efffffffffffffffffffdedef79ca5e7e7e7
+f7ffffffffffffffffffffffffffffffcef7ce319c393194314aa54a39a539319c3152b552ffffffffffffffffffffffffffffff52ad5a319c39319c3131a539
+319c31319c31efffeffffffffffffffffffffffffffffffff7e7de9439089439009439089431009439009439009c4a189c42109c4a109c4a109c42108c310094
+39008c3900a55a29cea58cffffffffffffffffffffffffffffffffffffffffffffffffffffff73d6ef21bdeff7ffffffffffceeffffffffffffffff7ffffffff
+ffffffffffffffffffffffffffffffffffffffffffffceceff0010b5efefffffffffefefff848ce76363d66b73de7b7bd60000b50008b50008b50008b51821bd
+7b7bd6f7f7ffffffffffffffffffffffffffffffffffffff7bbd7b319c3173b5739cce9ca5dea5ffffffffffffffffffffffffc6e7c6d6efd6ffffffffffffff
+ffffffffffffffffffffffad6331943900943900ce9c84b5734a9431009439008c3100943900d6ad9cfffffffffff7cea584e7c6b5ffffffffffffffffffffff
+fffffffffff7f7ffffffffffffffffffa5e7f76bd6f75aceef6bd6f74ac6efa5e7f7ffffffffffffffffffffffffffffff6bd6f7b5eff7ffffff84d6f708b5e7
+ade7f7ffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffbd84529431009439009c39089431009c4208ce9c7bffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdecead943900943100943908943900e7c6b5ffffffffffffffffffffffffffffff
+fffffffffffffffffff7f7ff1829bd7b84deffffffffffffffffffffffffffffffffffffbdc6ef0808b5b5b5efffffffffffffffffffffffffffffffdef7de5a
+b55a5ac65a73c67363b56bc6e7c6def7deffffffffffffffffffffffffffffffbddebd319c3139a539319c3139a539319c319cd69cffffffffffffffffffffff
+fffffffffffffff7e7e7e7c6adad6b42ad5a31943900943900943900943900943900943908943900943900a55221c68463f7efe7ffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff94e7ff84d6f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffff7f7ffc6c6efffffffffffffffffffffffffffffffffffffe7efff6b6bd62131c60810b53942ceced6f7ffffffffffffffffffffffffffffffffffffffff
+ffffffff8ce78c7bbd7bffffffffffffffffffffffffffffffffffffffffff6bbd6b73c673ffffffffffffffffffffffffffffffffffffad6b42943908943900
+ffefeffff7efb56b42c68463f7e7d6bd8463fffff7fffffffffffffffff7ffffffffffffffffffffffffefdecef7efefffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcef7ffdeffffffffffdef7ff73d6f7e7ffffffffffffffffffffffffffffffffffffff
+ffffffff0000ffffffffffffffffffdeb594d6bda5c69473d6bda5cea57bc68c73f7e7defffffffffffffffffffffffffffffffffffffff7f7ffffffffffffff
+fffff7efe7ffffffffffffe7d6c69c4210d6b594ad6b42cea58cfff7efffffffffffffffffffffffffffffffffffffffffffffffffffffff9494deffffffffff
+ffffffffffffffffffffffffffffffffeff7ff9c94e78c8cdeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffd6efd6319c39319c31319c39319c3142a5424aa54afffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7e7
+cebde7bdb5d6b59cc69473bd8463c69c7bdebda5debdadfff7efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdef7
+fff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffefefffcecef7f7f7fffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fff7ffffffffffffffffffffffffff
+ffffffffffffffffffffffbdefbd94c694fffffffffffffffffffffffffffffffffffff7e7dece9c84a55a31efd6ceffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffc69473e7cec6ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff7b56b42b57b5adebd8cffffffffefe7fffffffffffffff7efefd6ceffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7e7ff9c9ce75a63ceffffffffffffadb5f7e7
+e7f7bdbdefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffff74aa54a39a5
+39399c39c6efc6f7fff7b5deb5ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7ffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdef7dedeefdefffffff7fff7d6efd6def7deffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffff7efce9c8cffffffb57b5ace9c8cc6944affffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffff7f7ffdef7ffa5b5ef3139bd1821bdf7f7ffffffffdedeffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffe7f7e784c684c6e7c6ffffffffffffffffffffffffffffffffffffffffff9cd69c52ad52cee7ceffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffd6d6f7ffffffb5b5efffffffe7e7ffd6d6f76b6bd6d6def7dee7fffffffffffffffffffff7ffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffeff7efffffff94ce947bc67bb5deb5ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffdec6b5f7efe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+eff7fff7fffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcef7ffefffffffffffffffffff
+ffffffffffffffff0000fffffffffffffffffffffffffffff7fffffffff7effffffffffffffffffffffffffffffffffffffffffff7ded6fffffffff7f7ffffff
+fff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffb5bdef4a
+52ce525ad6ffffffe7efffa5ade7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fff7ffffffb5deb5fffffff7fff7ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7e7f7d6de
+ffffffff9c9ce7adade7b5bdefceceefcecef7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcee7ce63bd63ffffff
+fffffff7fff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffef
+dedefff7efffffffffffffefd6cef7efe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdef7ffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffe7ffffefffffffffffffffffffffffd6ffff9ce7fff7ffffffffffffffffffffffffffff0000fffffffffffffffffff7
+e7dec69473fff7eff7efe7fffffffff7f7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7
+efffffeff7efe7fff7f7ffffffffffffffffffffffffffffffffffffffffffffffffefeffff7f7ff949cdebdbdefb5b5efffffffe7e7f7dedeffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7efffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdeffffd6f7ffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffe7e7ffff
+ffffefefff8c8cdefffffffffffffffffffffffffffffffffffffffffffffffff7fff7f7fff7ade7adffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ce9c84fffff7ffffffd6ad94f7efefffffffffffffffffffe7cebdffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcef7ffa5
+e7fff7ffffffffffffffffffffffeff7ffdeffffffffffffffffffffffffffff0000ffffffffffffffffffefe7d6f7ded6ffefefffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7e7d6f7efe7ffffffffffffffffffff
+ffffffffffffffffffffffffffffdedeffdedef7fffffffffffff7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffa5e7ffc6efffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7ffdedef7ffffffffffffffffffffffffffffffb5b5eff7f7ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffff7efe7d6a58cfffffffffffffff7effffffffffffffffffffffffffffffff7efe7ffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7ffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7ffe7e7ff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffefffffffffffffffffe7fffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffd6d6f7f7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f7e7deffffff
+fffffffffffffffffffffffffffffffffffffffffffff7efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffe7e7ffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffd6f7ffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7f7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000040000002701ffff030000000000}}}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5921399 
+\par }}{\footerr \ltrpar \pard\plain \ltrpar\s19\ql \li0\ri0\sl-200\slmult0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1081 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\kerning1\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5717924 \hich\af0\dbch\af31505\loch\f0 SHAPE}}{\fldrslt }}\sectd \ltrsect
+\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5717924 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\s19\ql \li0\ri812\sb120\nowidctlpar\tqr\tldot\tx8630\wrapdefault\faauto\rin812\lin0\itap0 \rtlch\fcs1 
+\af0\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning1\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f1\fs48\insrsid5717924 \hich\af1\dbch\af31505\loch\f1 LAB}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f1\fs48\insrsid5921399 \hich\af1\dbch\af31505\loch\f1 - }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f1\fs48\insrsid10888588 \hich\af1\dbch\af31505\loch\f1  Using }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f1\fs48\insrsid11159699 \hich\af1\dbch\af31505\loch\f1 
+Resilience4J }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5717924 
+\par 
+\par }\pard \ltrpar\s19\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid2622781 {\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\cf6\insrsid7477017 
+\par }\pard \ltrpar\s19\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid12603944 {\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid14287930\charrsid14287930 \hich\af0\dbch\af31505\loch\f0 In this lab, you will be working }{\rtlch\fcs1 
+\af0\alang1025 \ltrch\fcs0 \b\insrsid1318245 \hich\af0\dbch\af31505\loch\f0 on projects under working set 0}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid11159699 \hich\af0\dbch\af31505\loch\f0 7}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 
+\b\insrsid1318245 -}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid11159699 \hich\af0\dbch\af31505\loch\f0 resiliency}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid12603944 
+\par }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid14287930 
+\par }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \insrsid11939266 
+\par }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid11939266\charrsid11939266 \hich\af0\dbch\af31505\loch\f0 Now you should work on }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid12350885\charrsid12350885 \hich\af0\dbch\af31505\loch\f0 
+06-accounts-usingfeign}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \b\insrsid11939266 
+\par 
+\par }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \insrsid11939266\charrsid11939266 \hich\af0\dbch\af31505\loch\f0 Op}{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \insrsid11939266 \hich\af0\dbch\af31505\loch\f0 en pom.xml and complete TODO-1
+\par }{\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \insrsid2630446 
+\par }\pard \ltrpar\s19\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9776874 {\rtlch\fcs1 \af0\alang1025 \ltrch\fcs0 \insrsid9772477 
+\par }{\rtlch\fcs1 \af0\afs30\alang1025 \ltrch\fcs0 \b\fs30\insrsid9772477\charrsid9772477 \hich\af0\dbch\af31505\loch\f0 Congratulations !! you know how to use }{\rtlch\fcs1 \af0\afs30\alang1025 \ltrch\fcs0 \b\fs30\insrsid11159699 
+\hich\af0\dbch\af31505\loch\f0 Resilience4J to make your ap\hich\af0\dbch\af31505\loch\f0 plication resilient to failures}{\rtlch\fcs1 \af0\afs30\alang1025 \ltrch\fcs0 \b\fs30\insrsid9772477\charrsid9772477 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87
+615b8116d8a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad
+79482a9c0498f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b
+5d8a314d3c94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab
+999fb7b4717509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9
+699640f6719e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd586
+8b37a088d1e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d6
+0cf03ac1a5193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f
+9e7ef3f2d117d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be
+15c308d3f28acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a9979
+3849c26ae66252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d
+32a423279a668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2a
+f074481847bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86
+e877f0034e16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb
+44f95d843b5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a
+6409fb44d08741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c
+3d9058edf2c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db0256
+5e85f3b9660d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276
+b9f7dec44b7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8
+c33585b5fb9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e
+51440ca2e0088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95
+b21be5ceaf8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff
+6dce591a26ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec6
+9ffb9e65d028d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239
+b75a5bb1e6345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a449
+59d366ad93b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e8
+2db8df9f30254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468
+656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4
+350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d2624
+52282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe5141
+73d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c020000130000000000000000
+0000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000
+000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c0000000000000000000000000019
+0200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b00001600000000
+000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b01000027
+00000000000000000000000000a00900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d0100009b0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax376\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdlocked0 heading 1;\lsdqformat1 \lsdlocked0 heading 2;
+\lsdqformat1 \lsdlocked0 heading 3;\lsdqformat1 \lsdlocked0 heading 4;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdlocked0 footer;
+\lsdqformat1 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdlocked0 List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;
+\lsdsemihidden1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority59 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;
+\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;
+\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;
+\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;
+\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;
+\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;
+\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;
+\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Mention;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hashtag;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Unresolved Mention;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Link;}}{\*\datastore 01050000
+02000000180000004d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000001012
+92bdbfb8d701feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}

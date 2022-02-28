@@ -1,0 +1,49 @@
+version: "3.8"
+
+services:
+
+  rabbit:
+    image: rabbitmq:3.9.7-management
+    mem_limit: 700m
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    networks:
+      - way2learn-network
+    
+  consumer:
+    image: way2learn/01-message-consumer
+    mem_limit: 700m
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network
+    
+  producer:
+    image: way2learn/01-message-producer
+    mem_limit: 700m
+    ports:
+      - "2222:2222"
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network
+    
+networks:
+  way2learn-network:

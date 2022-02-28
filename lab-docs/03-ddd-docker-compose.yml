@@ -1,0 +1,85 @@
+version: "3.8"
+
+services:
+
+  rabbit:
+    image: rabbitmq:3.9.7-management
+    mem_limit: 700m
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    networks:
+      - way2learn-network
+    
+  booking:
+    image: way2learn/01-ddd-cargo-booking
+    mem_limit: 700m
+    ports:
+      - "8081:8081"
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+      
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network
+  routing:
+    image: way2learn/01-ddd-cargo-routing
+    mem_limit: 700m
+    ports:
+      - "8082:8082"
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network 
+  handling:
+    image: way2learn/01-ddd-cargo-handling
+    mem_limit: 700m
+    ports:
+      - "8083:8083"
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network 
+  tracking:
+    image: way2learn/01-ddd-cargo-tracking
+    mem_limit: 700m
+    ports:
+      - "8084:8084"
+    depends_on:
+      - rabbit
+    environment:
+      rabbithostname: rabbit
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    networks:
+      - way2learn-network 
+    
+networks:
+  way2learn-network:
