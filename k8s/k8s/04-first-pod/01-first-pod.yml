@@ -1,0 +1,43 @@
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name: productservicepod
+  labels:
+    app: productservice
+    
+
+spec:
+  containers:
+   - name: productservicecontainer
+     image: sivavalluru/productservice
+       
+     env:      
+      - name: spring.profiles.active
+        value: mysql
+     
+     
+---
+
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name: mysqlpod
+  labels:
+    app: mysql
+    
+
+spec:
+  containers:
+   - name: mysql
+     image: mysql
+#     envFrom:
+#      - configMapRef:
+#          name: mysqlcm
+      
+     env:      
+      - name: MYSQL_ROOT_PASSWORD
+        value: root
+      - name: MYSQL_DATABASE
+        value: sivatrainingdb

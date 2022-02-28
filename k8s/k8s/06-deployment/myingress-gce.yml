@@ -1,0 +1,31 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: my-ingress
+  annotations:
+    # If the class annotation is not specified it defaults to "gce".
+    kubernetes.io/ingress.class: "gce"
+spec:
+  rules:
+	
+  - host: 
+    http:
+      paths:
+      - path: /*
+        backend:
+          serviceName: productpage
+          servicePort: 9080
+      - path: /ratings
+        backend:
+          serviceName: ratings
+          servicePort: 9080
+      - path: /details
+        backend:
+          serviceName: details
+          servicePort: 9080
+      - path: /reviews
+        backend:
+          serviceName: reviews
+          servicePort: 9080
+
+                           

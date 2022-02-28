@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: configserver-rs
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: configserver
+  template:
+    metadata:
+      name: configserverpod
+      labels:
+        app: configserver
+    spec:
+      containers:
+       - name: configserver
+         image: sivavalluru/config-server
+         ports:
+            - containerPort: 8071
+           
+         env:      
+          - name: spring.profiles.active
+            value: mysql
+           

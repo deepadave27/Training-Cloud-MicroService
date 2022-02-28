@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: productservice-rs
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: productservice
+  template:
+    metadata:
+      name: productservicepod
+      labels:
+        app: productservice
+    spec:
+      containers:
+      - name: productservicecontainer
+        image: sivavalluru/productservice
+       

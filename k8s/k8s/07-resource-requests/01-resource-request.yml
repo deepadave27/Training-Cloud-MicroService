@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: productservice-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: productservice
+  template:
+    metadata:
+      name: productservicepod
+      labels:
+        app: productservice
+    spec:
+      containers:
+      - name: productservicecontainer
+        image: sivavalluru/sivanginx:v2
+        resources:
+          requests:
+            memory: "1Gi"
+            cpu: 1
+          limits:
+            memory: "2Gi"
+            cpu: 2
+          
+       

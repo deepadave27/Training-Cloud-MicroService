@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mysqlcm
+data:
+  MYSQL_DATABASE: sivatrainingdb
+  MYSQL_ROOT_PASSWORD: root

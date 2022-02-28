@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: configserver-deployment
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: configserver
+  template:
+    metadata:
+      name: configserver
+      labels:
+        app: configserver
+    spec:
+      containers:
+      - name: configservercontainer
+        image: sivavalluru/config-server
+        ports:
+        - containerPort: 8071       
+        env:      
+        - name: spring.profiles.active
+          value: mysql
+       

@@ -1,0 +1,49 @@
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name: mysqlpod
+  labels:
+    app: mysql
+    
+
+spec:
+  containers:
+   - name: mysql
+     image: mysql
+     ports:
+        - containerPort: 3306
+#     envFrom:
+#      - configMapRef:
+#          name: mysqlcm
+      
+     env:      
+      - name: MYSQL_ROOT_PASSWORD
+        value: root
+      - name: MYSQL_DATABASE
+        value: sivatrainingdb
+        
+---
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name: configserver
+  labels:
+    app: configserver
+  
+    
+
+spec:
+  containers:
+   - name: configserver
+     image: sivavalluru/config-server
+     ports:
+        - containerPort: 8071
+       
+     env:      
+      - name: spring.profiles.active
+        value: mysql
+     
+     
+---
