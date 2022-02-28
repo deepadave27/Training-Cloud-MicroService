@@ -1,0 +1,64 @@
+version: "3.8"
+
+services:
+
+  config-server:
+    image: way2learn/01-config-server
+    mem_limit: 700m
+    container_name: config-server
+    ports:
+      - "8071:8071"
+    networks:
+      - way2learn-network
+   
+      
+  accounts:
+    image: way2learn/01-accounts
+    mem_limit: 700m
+    ports:
+      - "8080:8080"
+    networks:
+      - way2learn-network
+    depends_on:
+      - config-server
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    
+  loans:
+    image: way2learn/01-loans
+    mem_limit: 700m
+    ports:
+      - "8090:8090"
+    networks:
+      - way2learn-network
+    depends_on:
+      - config-server
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    
+  cards:
+    image: way2learn/01-cards
+    mem_limit: 700m
+    ports:
+      - "9000:9000"
+    networks:
+      - way2learn-network
+    depends_on:
+      - config-server
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 15s
+        max_attempts: 3
+        window: 120s
+    
+networks:
+  way2learn-network:
